@@ -1,4 +1,4 @@
-const DATA_URL = "../data/dashboard/latest.json";
+const DATA_URL = '../data/dashboard/latest.json?t=${Date.now()}';
 
 async function loadDashboard() {
     try {
