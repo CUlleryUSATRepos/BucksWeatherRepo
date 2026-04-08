@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bucks County Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="dashboard">
+        <header class="dashboard-header">
+            <div>
+                <p class="eyebrow">Weather Dashboard</p>
+                <h1>Bucks County Forecast</h1>
+                <p id="generated-at" class="generated-at">Loading latest update...</p>
+            </div>
+        </header>
+
+        <section class="top-grid">
+            <article class="card current-card">
+                <h2>Current Conditions</h2>
+                <div id="current-grid" class="current-grid">
+                    <div class="metric">
+                        <span class="metric-label">Temperature</span>
+                        <span id="current-temp" class="metric-value">--</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Humidity</span>
+                        <span id="current-humidity" class="metric-value">--</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Wind</span>
+                        <span id="current-wind" class="metric-value">--</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Conditions</span>
+                        <span id="current-conditions" class="metric-value">--</span>
+                    </div>
+                </div>
+            </article>
+
+            <article class="card alerts-card">
+                <div class="card-header">
+                    <h2>Active Alerts</h2>
+                    <span id="alerts-count" class="pill">0</span>
+                </div>
+                <div id="alerts-list" class="alerts-list">
+                    <p class="muted">Loading alerts...</p>
+                </div>
+            </article>
+        </section>
+
+        <section class="card summary-card">
+            <h2>Weather Story</h2>
+            <div id="summary-text" class="summary-text">
+                <p>Loading summary...</p>
+            </div>
+        </section>
+
+        <section class="card chart-card">
+            <div class="card-header">
+                <h2>72-Hour Trend</h2>
+                <div class="chart-legend">
+                    <span><span class="legend-swatch temp-line"></span>Temperature</span>
+                    <span><span class="legend-swatch precip-bars"></span>Precipitation</span>
+                </div>
+            </div>
+
+            <div class="chart-wrap">
+                <canvas id="weather-chart" width="1200" height="420"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
