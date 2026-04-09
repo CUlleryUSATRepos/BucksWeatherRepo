@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-04-08T20:16:16.719891",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 44\u00b0F, with clear conditions, humidity is averaging about 39%.\n\nThere are active weather alerts in effect, including: Freeze Warning.\n\nWednesday: Highs ranging from .\nWednesday Night: Clear in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 36\u00b0F to 38\u00b0F.\n\nThursday: Mostly sunny, with highs ranging from 57\u00b0F to 60\u00b0F.\nThursday Night: Mostly clear, with lows ranging from 28\u00b0F to 32\u00b0F.\n\nFriday: Sunny, with highs ranging from 68\u00b0F to 70\u00b0F.\nFriday Night: Patchy frost in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 35\u00b0F to 37\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 63\u00b0F, compared with 63\u00b0F during the same stretch last week.\nThe average overnight low is 38\u00b0F, compared with 45\u00b0F last week.\nAverage dew points over the next 72 hours come in around 40\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 62\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-04-09T00:16:14.328257",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 36\u00b0F, with clear conditions, humidity is averaging about 61%.\n\nThere are active weather alerts in effect, including: Freeze Warning.\n\nWednesday: Highs ranging from .\nWednesday Night: Mostly clear, with lows ranging from 36\u00b0F to 36\u00b0F.\n\nThursday: Mostly sunny, with highs ranging from 57\u00b0F to 60\u00b0F.\nThursday Night: Mostly clear, with lows ranging from 28\u00b0F to 32\u00b0F.\n\nFriday: Sunny, with highs ranging from 68\u00b0F to 70\u00b0F.\nFriday Night: Patchy frost in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 35\u00b0F to 37\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 63\u00b0F, compared with 63\u00b0F during the same stretch last week.\nThe average overnight low is 38\u00b0F, compared with 44\u00b0F last week.\nAverage dew points over the next 72 hours come in around 41\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 62\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 44,
-    "avg_humidity": 39,
-    "avg_wind": 22,
+    "avg_temp": 36,
+    "avg_humidity": 61,
+    "avg_wind": 10,
     "conditions": "Clear"
   },
   "alerts": [
     {
       "event": "Freeze Warning",
-      "headline": "Freeze Warning issued April 8 at 8:55AM EDT until April 9 at 9:00AM EDT by NWS Mount Holly NJ",
+      "headline": "Freeze Warning issued April 8 at 9:52PM EDT until April 9 at 9:00AM EDT by NWS Mount Holly NJ",
       "severity": "Moderate",
-      "effective": "2026-04-08T08:55:00-04:00",
-      "expires": "2026-04-08T22:00:00-04:00"
+      "effective": "2026-04-08T21:52:00-04:00",
+      "expires": "2026-04-09T09:00:00-04:00"
     }
   ],
   "chart": [
     {
-      "time": "2026-04-08T19:00:00-04:00",
-      "temp": 49.0,
-      "precip": 0.0
-    },
-    {
-      "time": "2026-04-08T20:00:00-04:00",
-      "temp": 46.3,
-      "precip": 0.0
-    },
-    {
-      "time": "2026-04-08T21:00:00-04:00",
-      "temp": 41.7,
-      "precip": 0.0
-    },
-    {
-      "time": "2026-04-08T22:00:00-04:00",
-      "temp": 39.3,
-      "precip": 0.0
-    },
-    {
       "time": "2026-04-08T23:00:00-04:00",
-      "temp": 37.0,
+      "temp": 36.0,
       "precip": 0.0
     },
     {
@@ -379,7 +359,27 @@
     },
     {
       "time": "2026-04-11T19:00:00-04:00",
-      "temp": 57.0,
+      "temp": 56.3,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-04-11T20:00:00-04:00",
+      "temp": 56.7,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-04-11T21:00:00-04:00",
+      "temp": 53.7,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-04-11T22:00:00-04:00",
+      "temp": 50.7,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-04-11T23:00:00-04:00",
+      "temp": 49.5,
       "precip": 0.0
     }
   ]
