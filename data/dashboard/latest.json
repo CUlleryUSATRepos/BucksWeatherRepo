@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-21T08:21:14.257020",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 34\u00b0F, with clear conditions, humidity is averaging about 70%.\n\nThere are active weather alerts in effect, including: Freeze Warning.\n\nTuesday: Sunny, with highs ranging from 55\u00b0F to 57\u00b0F.\nTuesday Night: Mostly cloudy in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 45\u00b0F to 47\u00b0F. Rain chances may reach about 21% overnight.\n\nWednesday: A chance of rain showers, with highs ranging from 61\u00b0F to 63\u00b0F. Rain chances may reach about 58%.\nWednesday Night: Mostly cloudy in Doylestown and Levittown, with a chance of rain showers in Quakertown, with lows ranging from 43\u00b0F to 46\u00b0F. Rain chances may reach about 58% overnight.\n\nThursday: Mostly sunny, with highs ranging from 71\u00b0F to 74\u00b0F.\nThursday Night: Mostly cloudy in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 45\u00b0F to 46\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 60\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 46\u00b0F, compared with 72\u00b0F last week.\nAverage dew points over the next 72 hours come in around 38\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Thursday around 7 PM, when temperatures should average about 69\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-04-21T08:51:16.262301",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 39\u00b0F, with clear conditions, humidity is averaging about 48%.\n\nThere are active weather alerts in effect, including: Freeze Warning.\n\nTuesday: Sunny, with highs ranging from 55\u00b0F to 57\u00b0F.\nTuesday Night: Mostly cloudy in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 45\u00b0F to 47\u00b0F. Rain chances may reach about 21% overnight.\n\nWednesday: A chance of rain showers, with highs ranging from 61\u00b0F to 63\u00b0F. Rain chances may reach about 58%.\nWednesday Night: Mostly cloudy in Doylestown and Levittown, with a chance of rain showers in Quakertown, with lows ranging from 43\u00b0F to 46\u00b0F. Rain chances may reach about 58% overnight.\n\nThursday: Mostly sunny, with highs ranging from 71\u00b0F to 74\u00b0F.\nThursday Night: Mostly cloudy in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 45\u00b0F to 46\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 60\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 46\u00b0F, compared with 72\u00b0F last week.\nAverage dew points over the next 72 hours come in around 38\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Thursday around 7 PM, when temperatures should average about 69\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 34,
-    "avg_humidity": 70,
-    "avg_wind": 6,
+    "avg_temp": 39,
+    "avg_humidity": 48,
+    "avg_wind": 15,
     "conditions": "Clear"
   },
   "alerts": [
@@ -17,11 +17,6 @@
     }
   ],
   "chart": [
-    {
-      "time": "2026-04-21T07:00:00-04:00",
-      "temp": 30.0,
-      "precip": 0.0
-    },
     {
       "time": "2026-04-21T08:00:00-04:00",
       "temp": 33.7,
@@ -379,7 +374,7 @@
     },
     {
       "time": "2026-04-24T07:00:00-04:00",
-      "temp": 49.0,
+      "temp": 50.0,
       "precip": 3.0
     }
   ]
