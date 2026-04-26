@@ -1,19 +1,22 @@
 {
-  "generated_at": "2026-04-26T02:21:14.020571",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 42\u00b0F, with cloudy conditions, humidity is averaging about 91%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nSunday: A slight chance of rain showers in doylestown, mostly cloudy in Quakertown, and a chance of rain showers in Levittown, with highs ranging from 54\u00b0F to 55\u00b0F. Rain chances may reach about 39%.\nSunday Night: Clear in Doylestown and Quakertown, with mostly clear in Levittown, with lows ranging from 40\u00b0F to 42\u00b0F. Rain chances may reach about 86% overnight.\n\nMonday: Sunny, with highs ranging from 66\u00b0F to 66\u00b0F.\nMonday Night: Mostly clear, with lows ranging from 38\u00b0F to 41\u00b0F.\n\nTuesday: Mostly sunny, with highs ranging from 65\u00b0F to 66\u00b0F. Rain chances may reach about 27%.\nTuesday Night: Mostly clear in Doylestown and Levittown, with a chance of rain showers in Quakertown, with lows ranging from 42\u00b0F to 44\u00b0F. Rain chances may reach about 37% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 62\u00b0F, compared with 52\u00b0F during the same stretch last week.\nThe average overnight low is 43\u00b0F, compared with 38\u00b0F last week.\nAverage dew points over the next 72 hours come in around 41\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Monday around 7 PM, when temperatures should average about 62\u00b0F with rain chances near 3%.",
+  "generated_at": "2026-04-26T02:51:09.934123",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 42\u00b0F, with cloudy conditions, humidity is averaging about 93%.\n\nThere are active weather alerts in effect, including: Frost Advisory.\n\nSunday: A slight chance of rain showers in doylestown, mostly cloudy in Quakertown, and a chance of rain showers in Levittown, with highs ranging from 54\u00b0F to 55\u00b0F. Rain chances may reach about 39%.\nSunday Night: Clear in Doylestown and Quakertown, with mostly clear in Levittown, with lows ranging from 40\u00b0F to 42\u00b0F. Rain chances may reach about 84% overnight.\n\nMonday: Sunny, with highs ranging from 66\u00b0F to 66\u00b0F.\nMonday Night: Mostly clear, with lows ranging from 38\u00b0F to 41\u00b0F.\n\nTuesday: Mostly sunny, with highs ranging from 65\u00b0F to 66\u00b0F. Rain chances may reach about 27%.\nTuesday Night: Mostly clear in Doylestown and Levittown, with a chance of rain showers in Quakertown, with lows ranging from 42\u00b0F to 44\u00b0F. Rain chances may reach about 37% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 62\u00b0F, compared with 52\u00b0F during the same stretch last week.\nThe average overnight low is 43\u00b0F, compared with 38\u00b0F last week.\nAverage dew points over the next 72 hours come in around 41\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Monday around 7 PM, when temperatures should average about 62\u00b0F with rain chances near 3%.",
   "current": {
     "avg_temp": 42,
-    "avg_humidity": 91,
-    "avg_wind": 25,
+    "avg_humidity": 93,
+    "avg_wind": 22,
     "conditions": "Cloudy"
   },
-  "alerts": [],
-  "chart": [
+  "alerts": [
     {
-      "time": "2026-04-26T01:00:00-04:00",
-      "temp": 41.0,
-      "precip": 79.0
-    },
+      "event": "Frost Advisory",
+      "headline": "Frost Advisory issued April 26 at 2:38AM EDT until April 27 at 8:00AM EDT by NWS Mount Holly NJ",
+      "severity": "Minor",
+      "effective": "2026-04-26T02:38:00-04:00",
+      "expires": "2026-04-26T16:00:00-04:00"
+    }
+  ],
+  "chart": [
     {
       "time": "2026-04-26T02:00:00-04:00",
       "temp": 41.7,
@@ -372,7 +375,7 @@
     {
       "time": "2026-04-29T01:00:00-04:00",
       "temp": 49.0,
-      "precip": 35.0
+      "precip": 36.0
     }
   ]
 }
