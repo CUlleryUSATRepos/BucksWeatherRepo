@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T20:51:15.635730",
+  "generated_at": "2026-04-25T21:21:08.893342",
   "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 42\u00b0F, with light rain conditions, humidity is averaging about 93%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nSaturday: Highs ranging from .\nSaturday Night: Rain, with lows ranging from 42\u00b0F to 44\u00b0F. Rain chances may reach about 98% overnight.\n\nSunday: A slight chance of rain showers in doylestown, mostly cloudy in Quakertown, and a chance of rain showers in Levittown, with highs ranging from 54\u00b0F to 55\u00b0F. Rain chances may reach about 39%.\nSunday Night: Clear in Doylestown and Quakertown, with mostly clear in Levittown, with lows ranging from 40\u00b0F to 42\u00b0F. Rain chances may reach about 95% overnight.\n\nMonday: Sunny, with highs ranging from 66\u00b0F to 66\u00b0F.\nMonday Night: Mostly clear, with lows ranging from 38\u00b0F to 41\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 62\u00b0F, compared with 49\u00b0F during the same stretch last week.\nThe average overnight low is 41\u00b0F, compared with 34\u00b0F last week.\nAverage dew points over the next 72 hours come in around 41\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Monday around 7 PM, when temperatures should average about 62\u00b0F with rain chances near 3%.",
   "current": {
     "avg_temp": 42,
@@ -11,7 +11,7 @@
   "chart": [
     {
       "time": "2026-04-25T20:00:00-04:00",
-      "temp": 44.0,
+      "temp": 43.5,
       "precip": 97.0
     },
     {
@@ -368,6 +368,11 @@
       "time": "2026-04-28T19:00:00-04:00",
       "temp": 61.0,
       "precip": 22.3
+    },
+    {
+      "time": "2026-04-28T20:00:00-04:00",
+      "temp": 59.0,
+      "precip": 35.0
     }
   ]
 }
