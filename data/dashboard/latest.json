@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:21:32.504379",
+  "generated_at": "2026-04-30T09:51:46.152548",
   "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 50\u00b0F, with cloudy conditions, humidity is averaging about 94%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nThursday: Mostly cloudy in Doylestown and Levittown, with partly sunny in Quakertown, with highs ranging from 62\u00b0F to 65\u00b0F.\nThursday Night: Partly cloudy, with lows ranging from 50\u00b0F to 54\u00b0F. Rain chances may reach about 20% overnight.\n\nFriday: Sunny, with highs ranging from 62\u00b0F to 65\u00b0F.\nFriday Night: A chance of rain showers in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 41\u00b0F to 45\u00b0F. Rain chances may reach about 40% overnight.\n\nSaturday: Slight chance light rain in Doylestown and Quakertown, with chance light rain in Levittown, with highs ranging from 57\u00b0F to 60\u00b0F. Rain chances may reach about 35%.\nSaturday Night: Slight chance light rain in Doylestown and Quakertown, with chance light rain in Levittown, with lows ranging from 42\u00b0F to 46\u00b0F. Rain chances may reach about 40% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 57\u00b0F, compared with 60\u00b0F during the same stretch last week.\nThe average overnight low is 45\u00b0F, compared with 50\u00b0F last week.\nAverage dew points over the next 72 hours come in around 43\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 11 AM, when temperatures should average about 55\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 50,
@@ -9,11 +9,6 @@
   },
   "alerts": [],
   "chart": [
-    {
-      "time": "2026-04-30T08:00:00-04:00",
-      "temp": 49.0,
-      "precip": 2.0
-    },
     {
       "time": "2026-04-30T09:00:00-04:00",
       "temp": 52.0,
@@ -371,8 +366,8 @@
     },
     {
       "time": "2026-05-03T08:00:00-04:00",
-      "temp": 45.0,
-      "precip": 4.5
+      "temp": 44.3,
+      "precip": 4.3
     }
   ]
 }
