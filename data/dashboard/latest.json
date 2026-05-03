@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-03T01:51:06.951166",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 47\u00b0F, with cloudy conditions, humidity is averaging about 50%.\n\nThere are active weather alerts in effect, including: Frost Advisory.\n\nSunday: Sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 59\u00b0F to 61\u00b0F. Winds could gust into the 20 mph range.\nSunday Night: Mostly clear, with lows ranging from 38\u00b0F to 41\u00b0F.\n\nMonday: Sunny, with highs ranging from 70\u00b0F to 74\u00b0F.\nMonday Night: Mostly clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 43\u00b0F to 46\u00b0F.\n\nTuesday: Mostly sunny in Doylestown and Quakertown, with sunny in Levittown, with highs ranging from 79\u00b0F to 84\u00b0F.\nTuesday Night: Partly cloudy in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 53\u00b0F to 57\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 71\u00b0F, compared with 63\u00b0F during the same stretch last week.\nThe average overnight low is 51\u00b0F, compared with 48\u00b0F last week.\nAverage dew points over the next 72 hours come in around 44\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Monday around 1 PM, when temperatures should average about 68\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-05-03T02:21:07.063473",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 46\u00b0F, with cloudy conditions, humidity is averaging about 51%.\n\nThere are active weather alerts in effect, including: Frost Advisory.\n\nSunday: Mostly sunny, with highs ranging from 60\u00b0F to 62\u00b0F.\nSunday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 39\u00b0F to 44\u00b0F.\n\nMonday: Sunny, with highs ranging from 70\u00b0F to 74\u00b0F.\nMonday Night: Mostly clear, with lows ranging from 43\u00b0F to 47\u00b0F.\n\nTuesday: Mostly sunny in Doylestown and Quakertown, with sunny in Levittown, with highs ranging from 79\u00b0F to 84\u00b0F.\nTuesday Night: Partly cloudy in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 53\u00b0F to 57\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 71\u00b0F, compared with 64\u00b0F during the same stretch last week.\nThe average overnight low is 52\u00b0F, compared with 49\u00b0F last week.\nAverage dew points over the next 72 hours come in around 44\u00b0F, which suggests comfortable conditions overall.\nOne of the better outdoor windows looks to be Monday around 1 PM, when temperatures should average about 68\u00b0F with rain chances near 1%.",
   "current": {
-    "avg_temp": 47,
-    "avg_humidity": 50,
-    "avg_wind": 17,
+    "avg_temp": 46,
+    "avg_humidity": 51,
+    "avg_wind": 13,
     "conditions": "Cloudy"
   },
   "alerts": [
@@ -19,158 +19,158 @@
   "chart": [
     {
       "time": "2026-05-03T01:00:00-04:00",
-      "temp": 45.7,
+      "temp": 44.0,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T02:00:00-04:00",
-      "temp": 43.7,
+      "temp": 44.7,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T03:00:00-04:00",
-      "temp": 42.7,
+      "temp": 43.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T04:00:00-04:00",
-      "temp": 41.0,
-      "precip": 0.3
+      "temp": 42.0,
+      "precip": 0.0
     },
     {
       "time": "2026-05-03T05:00:00-04:00",
-      "temp": 39.3,
-      "precip": 0.3
+      "temp": 41.3,
+      "precip": 0.0
     },
     {
       "time": "2026-05-03T06:00:00-04:00",
-      "temp": 39.0,
-      "precip": 0.3
-    },
-    {
-      "time": "2026-05-03T07:00:00-04:00",
       "temp": 40.7,
       "precip": 0.0
     },
     {
+      "time": "2026-05-03T07:00:00-04:00",
+      "temp": 42.0,
+      "precip": 0.0
+    },
+    {
       "time": "2026-05-03T08:00:00-04:00",
-      "temp": 42.7,
+      "temp": 43.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T09:00:00-04:00",
-      "temp": 46.7,
+      "temp": 46.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T10:00:00-04:00",
-      "temp": 50.0,
+      "temp": 49.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T11:00:00-04:00",
-      "temp": 52.0,
+      "temp": 51.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T12:00:00-04:00",
-      "temp": 54.0,
+      "temp": 53.0,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T13:00:00-04:00",
-      "temp": 55.7,
+      "temp": 55.0,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T14:00:00-04:00",
-      "temp": 57.0,
+      "temp": 56.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T15:00:00-04:00",
-      "temp": 58.3,
+      "temp": 58.0,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T16:00:00-04:00",
-      "temp": 59.0,
+      "temp": 59.3,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T17:00:00-04:00",
-      "temp": 60.0,
+      "temp": 61.0,
       "precip": 0.0
     },
     {
       "time": "2026-05-03T18:00:00-04:00",
-      "temp": 59.7,
+      "temp": 58.7,
       "precip": 0.7
     },
     {
       "time": "2026-05-03T19:00:00-04:00",
-      "temp": 57.7,
+      "temp": 57.0,
       "precip": 0.7
     },
     {
       "time": "2026-05-03T20:00:00-04:00",
-      "temp": 55.3,
-      "precip": 0.7
+      "temp": 55.0,
+      "precip": 1.7
     },
     {
       "time": "2026-05-03T21:00:00-04:00",
       "temp": 52.3,
-      "precip": 0.7
+      "precip": 1.7
     },
     {
       "time": "2026-05-03T22:00:00-04:00",
-      "temp": 50.7,
-      "precip": 0.7
+      "temp": 51.0,
+      "precip": 1.7
     },
     {
       "time": "2026-05-03T23:00:00-04:00",
-      "temp": 49.3,
-      "precip": 0.7
+      "temp": 49.7,
+      "precip": 1.7
     },
     {
       "time": "2026-05-04T00:00:00-04:00",
-      "temp": 48.0,
-      "precip": 0.7
+      "temp": 48.3,
+      "precip": 1.7
     },
     {
       "time": "2026-05-04T01:00:00-04:00",
-      "temp": 47.0,
-      "precip": 0.7
+      "temp": 47.7,
+      "precip": 1.7
     },
     {
       "time": "2026-05-04T02:00:00-04:00",
-      "temp": 46.0,
-      "precip": 0.3
+      "temp": 46.7,
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T03:00:00-04:00",
-      "temp": 45.0,
-      "precip": 0.3
+      "temp": 46.0,
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T04:00:00-04:00",
-      "temp": 44.7,
-      "precip": 0.3
+      "temp": 45.7,
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T05:00:00-04:00",
       "temp": 45.0,
-      "precip": 0.3
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T06:00:00-04:00",
       "temp": 46.0,
-      "precip": 0.3
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T07:00:00-04:00",
-      "temp": 48.0,
-      "precip": 0.3
+      "temp": 47.7,
+      "precip": 1.0
     },
     {
       "time": "2026-05-04T08:00:00-04:00",
@@ -376,6 +376,11 @@
       "time": "2026-05-06T00:00:00-04:00",
       "temp": 67.0,
       "precip": 12.0
+    },
+    {
+      "time": "2026-05-06T01:00:00-04:00",
+      "temp": 66.5,
+      "precip": 11.0
     }
   ]
 }
