@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-05-12T06:51:06.881075",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 40\u00b0F, with clear conditions, humidity is averaging about 67%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: Sunny, with highs ranging from 65\u00b0F to 68\u00b0F.\nTuesday Night: Mostly clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 52\u00b0F to 54\u00b0F.\n\nWednesday: Mostly cloudy, with highs ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 43%.\nWednesday Night: Mostly cloudy in Doylestown and Levittown, with showers and thunderstorms in Quakertown, with lows ranging from 49\u00b0F to 51\u00b0F. Rain chances may reach about 98% overnight.\n\nThursday: A chance of rain showers, with highs ranging from 63\u00b0F to 66\u00b0F. Rain chances may reach about 96%.\nThursday Night: Rain showers in doylestown, partly cloudy in Quakertown, and mostly cloudy in Levittown, with lows ranging from 51\u00b0F to 54\u00b0F. Rain chances may reach about 98% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 67\u00b0F, compared with 66\u00b0F during the same stretch last week.\nThe average overnight low is 51\u00b0F, compared with 54\u00b0F last week.\nAverage dew points over the next 72 hours come in around 50\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 5 PM, when temperatures should average about 66\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-05-12T07:51:14.151503",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 47\u00b0F, with clear conditions, humidity is averaging about 49%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: Sunny, with highs ranging from 65\u00b0F to 68\u00b0F.\nTuesday Night: Mostly clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 52\u00b0F to 54\u00b0F.\n\nWednesday: Mostly cloudy, with highs ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 43%.\nWednesday Night: Mostly cloudy in Doylestown and Levittown, with showers and thunderstorms in Quakertown, with lows ranging from 49\u00b0F to 51\u00b0F. Rain chances may reach about 98% overnight.\n\nThursday: A chance of rain showers, with highs ranging from 63\u00b0F to 66\u00b0F. Rain chances may reach about 96%.\nThursday Night: Rain showers in doylestown, partly cloudy in Quakertown, and mostly cloudy in Levittown, with lows ranging from 51\u00b0F to 54\u00b0F. Rain chances may reach about 98% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 63\u00b0F, compared with 60\u00b0F during the same stretch last week.\nThe average overnight low is 51\u00b0F, compared with 54\u00b0F last week.\nAverage dew points over the next 72 hours come in around 50\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 5 PM, when temperatures should average about 66\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 40,
-    "avg_humidity": 67,
-    "avg_wind": 4,
+    "avg_temp": 47,
+    "avg_humidity": 49,
+    "avg_wind": 11,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
-    {
-      "time": "2026-05-12T06:00:00-04:00",
-      "temp": 40.3,
-      "precip": 0.0
-    },
     {
       "time": "2026-05-12T07:00:00-04:00",
       "temp": 41.7,
@@ -367,6 +362,11 @@
     {
       "time": "2026-05-15T05:00:00-04:00",
       "temp": 49.3,
+      "precip": 16.3
+    },
+    {
+      "time": "2026-05-15T06:00:00-04:00",
+      "temp": 49.7,
       "precip": 16.3
     }
   ]
