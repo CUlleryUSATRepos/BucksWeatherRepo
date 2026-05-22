@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-05-22T17:51:05.297096",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 61\u00b0F, with clear conditions, humidity is averaging about 48%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nFriday: Slight chance light rain in Doylestown, with cloudy in Levittown and Quakertown, with highs ranging from 63\u00b0F to 64\u00b0F. Rain chances may reach about 20%.\nFriday Night: Cloudy, with lows ranging from 54\u00b0F to 56\u00b0F. Rain chances may reach about 21% overnight.\n\nSaturday: Rain, with highs ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 100%.\nSaturday Night: Chance light rain in Doylestown, with rain in Levittown and Quakertown, with lows ranging from 49\u00b0F to 52\u00b0F. Rain chances may reach about 100% overnight.\n\nSunday: Rain, with highs ranging from 63\u00b0F to 66\u00b0F. Rain chances may reach about 93%.\nSunday Night: Showers and thunderstorms likely in doylestown, rain likely in Quakertown, and rain in Levittown, with lows ranging from 50\u00b0F to 54\u00b0F. Rain chances may reach about 96% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 64\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 54\u00b0F, compared with 62\u00b0F last week.\nAverage dew points over the next 72 hours come in around 57\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 7 PM, when temperatures should average about 60\u00b0F with rain chances near 11%.",
+  "generated_at": "2026-05-22T18:21:10.488136",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 61\u00b0F, with clear conditions, humidity is averaging about 48%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nFriday: Slight chance light rain, with highs ranging from 63\u00b0F to 63\u00b0F. Rain chances may reach about 20%.\nFriday Night: Cloudy in Doylestown and Levittown, with slight chance light rain in Quakertown, with lows ranging from 54\u00b0F to 56\u00b0F. Rain chances may reach about 23% overnight.\n\nSaturday: Rain, with highs ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 100%.\nSaturday Night: Chance light rain in Doylestown and Quakertown, with rain in Levittown, with lows ranging from 49\u00b0F to 52\u00b0F. Rain chances may reach about 100% overnight.\n\nSunday: Rain, with highs ranging from 63\u00b0F to 66\u00b0F. Rain chances may reach about 93%.\nSunday Night: Showers and thunderstorms likely in doylestown, rain likely in Quakertown, and rain in Levittown, with lows ranging from 50\u00b0F to 54\u00b0F. Rain chances may reach about 96% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 64\u00b0F, compared with 83\u00b0F during the same stretch last week.\nThe average overnight low is 54\u00b0F, compared with 62\u00b0F last week.\nAverage dew points over the next 72 hours come in around 57\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 7 PM, when temperatures should average about 60\u00b0F with rain chances near 16%.",
   "current": {
     "avg_temp": 61,
     "avg_humidity": 48,
-    "avg_wind": 32,
+    "avg_wind": 21,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
     {
       "time": "2026-05-22T17:00:00-04:00",
-      "temp": 63.3,
-      "precip": 11.3
+      "temp": 63.0,
+      "precip": 20.0
     },
     {
       "time": "2026-05-22T18:00:00-04:00",
       "temp": 62.0,
-      "precip": 12.7
+      "precip": 21.0
     },
     {
       "time": "2026-05-22T19:00:00-04:00",
       "temp": 60.3,
-      "precip": 11.0
+      "precip": 16.3
     },
     {
       "time": "2026-05-22T20:00:00-04:00",
       "temp": 59.0,
-      "precip": 11.0
+      "precip": 17.0
     },
     {
       "time": "2026-05-22T21:00:00-04:00",
       "temp": 57.3,
-      "precip": 10.3
+      "precip": 15.7
     },
     {
       "time": "2026-05-22T22:00:00-04:00",
       "temp": 55.7,
-      "precip": 10.3
+      "precip": 14.7
     },
     {
       "time": "2026-05-22T23:00:00-04:00",
       "temp": 54.7,
-      "precip": 10.3
+      "precip": 13.7
     },
     {
       "time": "2026-05-23T00:00:00-04:00",
       "temp": 54.3,
-      "precip": 15.3
+      "precip": 21.3
     },
     {
       "time": "2026-05-23T01:00:00-04:00",
       "temp": 53.7,
-      "precip": 21.3
+      "precip": 29.3
     },
     {
       "time": "2026-05-23T02:00:00-04:00",
@@ -62,12 +62,12 @@
     {
       "time": "2026-05-23T03:00:00-04:00",
       "temp": 51.7,
-      "precip": 43.7
+      "precip": 44.0
     },
     {
       "time": "2026-05-23T04:00:00-04:00",
       "temp": 51.0,
-      "precip": 53.3
+      "precip": 50.3
     },
     {
       "time": "2026-05-23T05:00:00-04:00",
@@ -368,6 +368,11 @@
       "time": "2026-05-25T16:00:00-04:00",
       "temp": 73.3,
       "precip": 42.3
+    },
+    {
+      "time": "2026-05-25T17:00:00-04:00",
+      "temp": 74.5,
+      "precip": 42.0
     }
   ]
 }
