@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-05-22T00:51:04.668394",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 55\u00b0F, with clear conditions, humidity is averaging about 98%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly cloudy in Quakertown, with highs ranging from 63\u00b0F to 63\u00b0F.\nFriday Night: Cloudy, with lows ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 28% overnight.\n\nSaturday: Rain, with highs ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 95%.\nSaturday Night: Rain, with lows ranging from 49\u00b0F to 53\u00b0F. Rain chances may reach about 99% overnight.\n\nSunday: A slight chance of rain showers in Doylestown and Levittown, with mostly cloudy in Quakertown, with highs ranging from 63\u00b0F to 67\u00b0F. Rain chances may reach about 97%.\nSunday Night: A slight chance of rain showers in doylestown, light rain in Quakertown, and rain in Levittown, with lows ranging from 49\u00b0F to 53\u00b0F. Rain chances may reach about 99% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 60\u00b0F, compared with 77\u00b0F during the same stretch last week.\nThe average overnight low is 52\u00b0F, compared with 59\u00b0F last week.\nAverage dew points over the next 72 hours come in around 55\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 6 AM, when temperatures should average about 55\u00b0F with rain chances near 3%.",
+  "generated_at": "2026-05-22T01:21:05.314305",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 54\u00b0F, with clear conditions, humidity is averaging about 100%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly cloudy in Quakertown, with highs ranging from 63\u00b0F to 63\u00b0F.\nFriday Night: Cloudy, with lows ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 28% overnight.\n\nSaturday: Rain, with highs ranging from 52\u00b0F to 55\u00b0F. Rain chances may reach about 95%.\nSaturday Night: Rain, with lows ranging from 49\u00b0F to 53\u00b0F. Rain chances may reach about 99% overnight.\n\nSunday: A slight chance of rain showers in Doylestown and Levittown, with mostly cloudy in Quakertown, with highs ranging from 63\u00b0F to 67\u00b0F. Rain chances may reach about 97%.\nSunday Night: A slight chance of rain showers in doylestown, light rain in Quakertown, and rain in Levittown, with lows ranging from 49\u00b0F to 53\u00b0F. Rain chances may reach about 99% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 60\u00b0F, compared with 79\u00b0F during the same stretch last week.\nThe average overnight low is 54\u00b0F, compared with 64\u00b0F last week.\nAverage dew points over the next 72 hours come in around 55\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Friday around 6 AM, when temperatures should average about 55\u00b0F with rain chances near 3%.",
   "current": {
-    "avg_temp": 55,
-    "avg_humidity": 98,
-    "avg_wind": 4,
+    "avg_temp": 54,
+    "avg_humidity": 100,
+    "avg_wind": 6,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
-    {
-      "time": "2026-05-22T00:00:00-04:00",
-      "temp": 56.0,
-      "precip": 2.7
-    },
     {
       "time": "2026-05-22T01:00:00-04:00",
       "temp": 55.0,
@@ -367,6 +362,11 @@
     {
       "time": "2026-05-24T23:00:00-04:00",
       "temp": 60.3,
+      "precip": 18.0
+    },
+    {
+      "time": "2026-05-25T00:00:00-04:00",
+      "temp": 59.3,
       "precip": 18.0
     }
   ]
