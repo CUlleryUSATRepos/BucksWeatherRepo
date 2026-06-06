@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-06-06T17:51:05.984319",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 85\u00b0F, with clear conditions, humidity is averaging about 49%.\n\nThere are active weather alerts in effect, including: Severe Thunderstorm Watch, Air Quality Alert.\n\nSaturday: Partly sunny in doylestown, mostly cloudy in Quakertown, and sunny in Levittown, with highs ranging from 90\u00b0F to 92\u00b0F.\nSaturday Night: Mostly cloudy in Doylestown and Levittown, with slight chance showers and thunderstorms in Quakertown, with lows ranging from 73\u00b0F to 76\u00b0F. Rain chances may reach about 57% overnight.\n\nSunday: Sunny, with highs ranging from 86\u00b0F to 88\u00b0F.\nSunday Night: Clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 65\u00b0F to 68\u00b0F.\n\nMonday: Sunny, with highs ranging from 82\u00b0F to 83\u00b0F.\nMonday Night: Clear, with lows ranging from 61\u00b0F to 64\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 87\u00b0F, compared with 69\u00b0F during the same stretch last week.\nThe average overnight low is 65\u00b0F, compared with 53\u00b0F last week.\nAverage dew points over the next 72 hours come in around 60\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 10 AM, when temperatures should average about 72\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-06-06T18:21:05.997041",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 85\u00b0F, with clear conditions, humidity is averaging about 49%.\n\nThere are active weather alerts in effect, including: Severe Thunderstorm Warning, Severe Thunderstorm Watch, Air Quality Alert.\n\nSaturday: Partly sunny in Doylestown, with mostly cloudy in Quakertown, with highs ranging from 90\u00b0F to 90\u00b0F.\nSaturday Night: Mostly cloudy in Doylestown and Levittown, with slight chance showers and thunderstorms in Quakertown, with lows ranging from 73\u00b0F to 76\u00b0F. Rain chances may reach about 57% overnight.\n\nSunday: Sunny, with highs ranging from 86\u00b0F to 88\u00b0F.\nSunday Night: Clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 65\u00b0F to 68\u00b0F.\n\nMonday: Sunny, with highs ranging from 82\u00b0F to 83\u00b0F.\nMonday Night: Clear, with lows ranging from 61\u00b0F to 64\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 86\u00b0F, compared with 70\u00b0F during the same stretch last week.\nThe average overnight low is 65\u00b0F, compared with 52\u00b0F last week.\nAverage dew points over the next 72 hours come in around 60\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 10 AM, when temperatures should average about 72\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 85,
     "avg_humidity": 49,
-    "avg_wind": 36,
+    "avg_wind": 35,
     "conditions": "Clear"
   },
   "alerts": [
     {
-      "event": "Severe Thunderstorm Watch",
-      "headline": "Severe Thunderstorm Watch issued June 6 at 4:45PM EDT until June 6 at 10:00PM EDT by NWS Mount Holly NJ",
+      "event": "Severe Thunderstorm Warning",
+      "headline": "Severe Thunderstorm Warning issued June 6 at 6:17PM EDT until June 6 at 7:15PM EDT by NWS Mount Holly NJ",
       "severity": "Severe",
-      "effective": "2026-06-06T16:45:00-04:00",
+      "effective": "2026-06-06T18:17:00-04:00",
+      "expires": "2026-06-06T19:15:00-04:00"
+    },
+    {
+      "event": "Severe Thunderstorm Watch",
+      "headline": "Severe Thunderstorm Watch issued June 6 at 6:15PM EDT until June 6 at 10:00PM EDT by NWS Mount Holly NJ",
+      "severity": "Severe",
+      "effective": "2026-06-06T18:15:00-04:00",
       "expires": "2026-06-06T22:00:00-04:00"
     },
     {
@@ -26,8 +33,8 @@
   "chart": [
     {
       "time": "2026-06-06T17:00:00-04:00",
-      "temp": 90.7,
-      "precip": 6.7
+      "temp": 90.0,
+      "precip": 8.5
     },
     {
       "time": "2026-06-06T18:00:00-04:00",
@@ -382,6 +389,11 @@
     {
       "time": "2026-06-09T16:00:00-04:00",
       "temp": 87.3,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-06-09T17:00:00-04:00",
+      "temp": 88.0,
       "precip": 0.0
     }
   ]
