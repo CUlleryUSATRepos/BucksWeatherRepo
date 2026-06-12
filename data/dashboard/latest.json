@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-12T02:51:04.399265",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 73\u00b0F, with clear conditions, humidity is averaging about 87%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nFriday: Mostly sunny, with highs ranging from 92\u00b0F to 95\u00b0F. Rain chances may reach about 48%.\nFriday Night: Patchy fog in Doylestown, with mostly cloudy in Levittown and Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 36% overnight.\n\nSaturday: Sunny, with highs ranging from 86\u00b0F to 90\u00b0F.\nSaturday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 63\u00b0F to 68\u00b0F.\n\nSunday: Mostly sunny, with highs ranging from 85\u00b0F to 89\u00b0F. Rain chances may reach about 64%.\nSunday Night: Showers and thunderstorms likely in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 64\u00b0F to 69\u00b0F. Rain chances may reach about 73% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 89\u00b0F, compared with 85\u00b0F during the same stretch last week.\nThe average overnight low is 69\u00b0F, compared with 67\u00b0F last week.\nAverage dew points over the next 72 hours come in around 61\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Sunday around 7 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-06-12T03:21:04.480415",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 73\u00b0F, with clear conditions, humidity is averaging about 83%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nFriday: Mostly sunny, with highs ranging from 92\u00b0F to 95\u00b0F. Rain chances may reach about 48%.\nFriday Night: Patchy fog in Doylestown, with mostly cloudy in Levittown and Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 36% overnight.\n\nSaturday: Sunny, with highs ranging from 86\u00b0F to 90\u00b0F.\nSaturday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 63\u00b0F to 68\u00b0F.\n\nSunday: Mostly sunny, with highs ranging from 85\u00b0F to 89\u00b0F. Rain chances may reach about 64%.\nSunday Night: Showers and thunderstorms likely in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 64\u00b0F to 69\u00b0F. Rain chances may reach about 73% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 89\u00b0F, compared with 86\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 67\u00b0F last week.\nAverage dew points over the next 72 hours come in around 61\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Sunday around 7 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 73,
-    "avg_humidity": 87,
-    "avg_wind": 11,
+    "avg_humidity": 83,
+    "avg_wind": 21,
     "conditions": "Clear"
   },
   "alerts": [
@@ -18,14 +18,9 @@
   ],
   "chart": [
     {
-      "time": "2026-06-12T01:00:00-04:00",
-      "temp": 77.0,
-      "precip": 26.0
-    },
-    {
       "time": "2026-06-12T02:00:00-04:00",
-      "temp": 73.7,
-      "precip": 6.3
+      "temp": 74.5,
+      "precip": 7.0
     },
     {
       "time": "2026-06-12T03:00:00-04:00",
@@ -379,8 +374,13 @@
     },
     {
       "time": "2026-06-15T01:00:00-04:00",
-      "temp": 69.0,
+      "temp": 70.0,
       "precip": 73.0
+    },
+    {
+      "time": "2026-06-15T02:00:00-04:00",
+      "temp": 67.0,
+      "precip": 11.0
     }
   ]
 }
