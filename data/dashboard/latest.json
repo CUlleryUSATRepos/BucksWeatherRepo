@@ -1,27 +1,22 @@
 {
-  "generated_at": "2026-06-16T16:21:05.220767",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, with clear conditions, humidity is averaging about 35%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: Sunny, with highs ranging from 75\u00b0F to 79\u00b0F.\nTuesday Night: Mostly clear, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers in Doylestown and Quakertown, with a chance of showers and thunderstorms in Levittown, with highs ranging from 77\u00b0F to 79\u00b0F. Rain chances may reach about 62%.\nWednesday Night: Mostly cloudy in Doylestown, with partly cloudy in Levittown and Quakertown, with lows ranging from 58\u00b0F to 62\u00b0F. Rain chances may reach about 23% overnight.\n\nThursday: A chance of rain showers in doylestown, a chance of showers and thunderstorms in Quakertown, and a slight chance of rain showers in Levittown, with highs ranging from 84\u00b0F to 89\u00b0F. Rain chances may reach about 63%.\nThursday Night: Cloudy in Doylestown, with mostly cloudy in Levittown and Quakertown, with lows ranging from 64\u00b0F to 67\u00b0F. Rain chances may reach about 53% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 80\u00b0F, compared with 84\u00b0F during the same stretch last week.\nThe average overnight low is 64\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 58\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 7 PM, when temperatures should average about 74\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-06-16T16:51:05.633161",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, with clear conditions, humidity is averaging about 34%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: Sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 76\u00b0F to 79\u00b0F.\nTuesday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 61\u00b0F to 65\u00b0F.\n\nWednesday: A chance of rain showers in Doylestown and Levittown, with a slight chance of rain showers in Quakertown, with highs ranging from 79\u00b0F to 81\u00b0F. Rain chances may reach about 62%.\nWednesday Night: Mostly cloudy, with lows ranging from 57\u00b0F to 60\u00b0F. Rain chances may reach about 35% overnight.\n\nThursday: A chance of rain showers in Doylestown and Levittown, with showers and thunderstorms likely in Quakertown, with highs ranging from 86\u00b0F to 91\u00b0F. Rain chances may reach about 59%.\nThursday Night: Cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 63\u00b0F to 66\u00b0F. Rain chances may reach about 32% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 84\u00b0F during the same stretch last week.\nThe average overnight low is 63\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 59\u00b0F, which suggests fairly comfortable conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 7 PM, when temperatures should average about 75\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 75,
-    "avg_humidity": 35,
-    "avg_wind": 7,
+    "avg_humidity": 34,
+    "avg_wind": 18,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
     {
-      "time": "2026-06-16T15:00:00-04:00",
-      "temp": 76.5,
-      "precip": 0.0
-    },
-    {
       "time": "2026-06-16T16:00:00-04:00",
-      "temp": 76.7,
+      "temp": 76.0,
       "precip": 0.0
     },
     {
       "time": "2026-06-16T17:00:00-04:00",
-      "temp": 77.0,
+      "temp": 77.3,
       "precip": 0.0
     },
     {
@@ -31,7 +26,7 @@
     },
     {
       "time": "2026-06-16T19:00:00-04:00",
-      "temp": 74.0,
+      "temp": 74.7,
       "precip": 0.0
     },
     {
@@ -41,338 +36,338 @@
     },
     {
       "time": "2026-06-16T21:00:00-04:00",
-      "temp": 68.3,
+      "temp": 67.7,
       "precip": 0.0
     },
     {
       "time": "2026-06-16T22:00:00-04:00",
-      "temp": 66.0,
-      "precip": 0.0
+      "temp": 64.7,
+      "precip": 0.3
     },
     {
       "time": "2026-06-16T23:00:00-04:00",
-      "temp": 64.3,
-      "precip": 0.0
+      "temp": 63.0,
+      "precip": 0.3
     },
     {
       "time": "2026-06-17T00:00:00-04:00",
-      "temp": 62.7,
-      "precip": 0.7
+      "temp": 61.7,
+      "precip": 1.7
     },
     {
       "time": "2026-06-17T01:00:00-04:00",
-      "temp": 61.7,
-      "precip": 1.0
+      "temp": 60.7,
+      "precip": 2.0
     },
     {
       "time": "2026-06-17T02:00:00-04:00",
-      "temp": 60.7,
-      "precip": 1.3
+      "temp": 59.7,
+      "precip": 3.7
     },
     {
       "time": "2026-06-17T03:00:00-04:00",
-      "temp": 60.0,
-      "precip": 3.0
+      "temp": 59.0,
+      "precip": 5.0
     },
     {
       "time": "2026-06-17T04:00:00-04:00",
-      "temp": 60.0,
-      "precip": 5.7
+      "temp": 58.7,
+      "precip": 6.3
     },
     {
       "time": "2026-06-17T05:00:00-04:00",
-      "temp": 59.7,
-      "precip": 10.7
+      "temp": 58.3,
+      "precip": 13.3
     },
     {
       "time": "2026-06-17T06:00:00-04:00",
-      "temp": 59.3,
-      "precip": 12.7
+      "temp": 57.3,
+      "precip": 17.0
     },
     {
       "time": "2026-06-17T07:00:00-04:00",
-      "temp": 61.0,
-      "precip": 13.7
+      "temp": 59.3,
+      "precip": 16.7
     },
     {
       "time": "2026-06-17T08:00:00-04:00",
-      "temp": 64.0,
-      "precip": 36.0
+      "temp": 63.3,
+      "precip": 28.7
     },
     {
       "time": "2026-06-17T09:00:00-04:00",
-      "temp": 66.7,
-      "precip": 36.0
+      "temp": 66.0,
+      "precip": 30.3
     },
     {
       "time": "2026-06-17T10:00:00-04:00",
-      "temp": 70.0,
-      "precip": 26.7
+      "temp": 71.3,
+      "precip": 34.3
     },
     {
       "time": "2026-06-17T11:00:00-04:00",
-      "temp": 72.3,
-      "precip": 19.7
+      "temp": 73.3,
+      "precip": 30.7
     },
     {
       "time": "2026-06-17T12:00:00-04:00",
-      "temp": 74.3,
-      "precip": 26.0
+      "temp": 75.3,
+      "precip": 28.7
     },
     {
       "time": "2026-06-17T13:00:00-04:00",
-      "temp": 75.7,
-      "precip": 25.3
+      "temp": 76.7,
+      "precip": 37.3
     },
     {
       "time": "2026-06-17T14:00:00-04:00",
-      "temp": 77.0,
-      "precip": 55.3
-    },
-    {
-      "time": "2026-06-17T15:00:00-04:00",
-      "temp": 77.7,
-      "precip": 40.7
-    },
-    {
-      "time": "2026-06-17T16:00:00-04:00",
-      "temp": 78.0,
-      "precip": 47.0
-    },
-    {
-      "time": "2026-06-17T17:00:00-04:00",
       "temp": 78.3,
       "precip": 45.3
     },
     {
+      "time": "2026-06-17T15:00:00-04:00",
+      "temp": 78.3,
+      "precip": 48.7
+    },
+    {
+      "time": "2026-06-17T16:00:00-04:00",
+      "temp": 78.7,
+      "precip": 50.7
+    },
+    {
+      "time": "2026-06-17T17:00:00-04:00",
+      "temp": 79.7,
+      "precip": 38.7
+    },
+    {
       "time": "2026-06-17T18:00:00-04:00",
-      "temp": 77.3,
-      "precip": 16.3
+      "temp": 78.7,
+      "precip": 28.3
     },
     {
       "time": "2026-06-17T19:00:00-04:00",
-      "temp": 76.3,
+      "temp": 77.7,
       "precip": 10.7
     },
     {
       "time": "2026-06-17T20:00:00-04:00",
-      "temp": 74.3,
-      "precip": 4.3
+      "temp": 75.3,
+      "precip": 5.3
     },
     {
       "time": "2026-06-17T21:00:00-04:00",
       "temp": 71.7,
-      "precip": 4.3
+      "precip": 4.7
     },
     {
       "time": "2026-06-17T22:00:00-04:00",
-      "temp": 69.7,
-      "precip": 3.0
+      "temp": 69.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-17T23:00:00-04:00",
-      "temp": 68.7,
-      "precip": 3.0
+      "temp": 68.0,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T00:00:00-04:00",
-      "temp": 67.7,
-      "precip": 3.0
+      "temp": 67.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T01:00:00-04:00",
-      "temp": 67.0,
-      "precip": 3.0
+      "temp": 66.0,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T02:00:00-04:00",
-      "temp": 66.3,
-      "precip": 2.0
+      "temp": 65.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T03:00:00-04:00",
-      "temp": 66.3,
-      "precip": 2.0
+      "temp": 65.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T04:00:00-04:00",
-      "temp": 65.7,
-      "precip": 2.0
+      "temp": 64.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T05:00:00-04:00",
-      "temp": 66.3,
-      "precip": 2.0
+      "temp": 65.3,
+      "precip": 0.0
     },
     {
       "time": "2026-06-18T06:00:00-04:00",
-      "temp": 66.3,
-      "precip": 2.0
+      "temp": 65.3,
+      "precip": 3.3
     },
     {
       "time": "2026-06-18T07:00:00-04:00",
-      "temp": 67.7,
-      "precip": 11.0
+      "temp": 66.3,
+      "precip": 28.0
     },
     {
       "time": "2026-06-18T08:00:00-04:00",
       "temp": 70.7,
-      "precip": 46.0
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T09:00:00-04:00",
-      "temp": 73.0,
-      "precip": 46.0
+      "temp": 74.3,
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T10:00:00-04:00",
-      "temp": 76.3,
-      "precip": 46.0
+      "temp": 77.0,
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T11:00:00-04:00",
       "temp": 79.3,
-      "precip": 46.0
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T12:00:00-04:00",
       "temp": 81.7,
-      "precip": 46.0
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T13:00:00-04:00",
-      "temp": 83.7,
-      "precip": 46.0
+      "temp": 84.0,
+      "precip": 51.7
     },
     {
       "time": "2026-06-18T14:00:00-04:00",
-      "temp": 85.3,
-      "precip": 37.7
+      "temp": 86.0,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T15:00:00-04:00",
-      "temp": 86.3,
-      "precip": 37.7
+      "temp": 87.0,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T16:00:00-04:00",
-      "temp": 86.7,
-      "precip": 37.7
+      "temp": 88.0,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T17:00:00-04:00",
-      "temp": 86.3,
-      "precip": 37.7
+      "temp": 88.0,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T18:00:00-04:00",
-      "temp": 85.3,
-      "precip": 37.7
+      "temp": 87.0,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T19:00:00-04:00",
-      "temp": 84.0,
-      "precip": 37.7
+      "temp": 85.7,
+      "precip": 21.7
     },
     {
       "time": "2026-06-18T20:00:00-04:00",
-      "temp": 82.3,
-      "precip": 11.3
+      "temp": 83.0,
+      "precip": 8.0
     },
     {
       "time": "2026-06-18T21:00:00-04:00",
-      "temp": 80.3,
-      "precip": 11.3
+      "temp": 81.0,
+      "precip": 8.0
     },
     {
       "time": "2026-06-18T22:00:00-04:00",
       "temp": 78.0,
-      "precip": 11.3
+      "precip": 8.0
     },
     {
       "time": "2026-06-18T23:00:00-04:00",
-      "temp": 76.3,
-      "precip": 11.3
+      "temp": 75.7,
+      "precip": 8.0
     },
     {
       "time": "2026-06-19T00:00:00-04:00",
-      "temp": 74.7,
-      "precip": 11.3
+      "temp": 73.7,
+      "precip": 8.0
     },
     {
       "time": "2026-06-19T01:00:00-04:00",
-      "temp": 73.0,
-      "precip": 11.3
+      "temp": 71.7,
+      "precip": 8.0
     },
     {
       "time": "2026-06-19T02:00:00-04:00",
-      "temp": 71.7,
-      "precip": 9.7
+      "temp": 70.3,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T03:00:00-04:00",
-      "temp": 69.7,
-      "precip": 9.7
+      "temp": 68.3,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T04:00:00-04:00",
-      "temp": 68.3,
-      "precip": 9.7
+      "temp": 66.3,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T05:00:00-04:00",
-      "temp": 67.3,
-      "precip": 9.7
+      "temp": 65.7,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T06:00:00-04:00",
-      "temp": 67.0,
-      "precip": 9.7
+      "temp": 65.7,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T07:00:00-04:00",
-      "temp": 68.0,
-      "precip": 9.7
+      "temp": 66.7,
+      "precip": 11.0
     },
     {
       "time": "2026-06-19T08:00:00-04:00",
-      "temp": 69.3,
-      "precip": 15.0
+      "temp": 68.3,
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T09:00:00-04:00",
-      "temp": 71.3,
-      "precip": 15.0
+      "temp": 70.3,
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T10:00:00-04:00",
-      "temp": 72.7,
-      "precip": 15.0
+      "temp": 72.3,
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T11:00:00-04:00",
       "temp": 74.3,
-      "precip": 15.0
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T12:00:00-04:00",
-      "temp": 75.3,
-      "precip": 15.0
+      "temp": 75.7,
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T13:00:00-04:00",
-      "temp": 76.7,
-      "precip": 15.0
+      "temp": 77.3,
+      "precip": 16.0
     },
     {
       "time": "2026-06-19T14:00:00-04:00",
-      "temp": 77.7,
-      "precip": 7.0
+      "temp": 78.3,
+      "precip": 5.7
     },
     {
       "time": "2026-06-19T15:00:00-04:00",
-      "temp": 79.0,
-      "precip": 5.0
+      "temp": 79.3,
+      "precip": 5.7
     }
   ]
 }
