@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T23:51:05.844176",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 85\u00b0F, with clear conditions, humidity is averaging about 75%.\n\nThere are active weather alerts in effect, including: Air Quality Alert, Extreme Heat Warning.\n\nWednesday: Highs ranging from .\nWednesday Night: Partly cloudy, with lows ranging from 82\u00b0F to 84\u00b0F.\n\nThursday: Sunny, with highs ranging from 101\u00b0F to 105\u00b0F.\nThursday Night: Mostly clear, with lows ranging from 76\u00b0F to 78\u00b0F.\n\nFriday: Sunny, with highs ranging from 100\u00b0F to 103\u00b0F.\nFriday Night: Clear, with lows ranging from 79\u00b0F to 82\u00b0F. Rain chances may reach about 21% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 101\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 80\u00b0F, compared with 70\u00b0F last week.\nAverage dew points over the next 72 hours come in around 70\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Saturday around 6 AM, when temperatures should average about 78\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-07-02T00:15:59.182821",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 85\u00b0F, with clear conditions, humidity is averaging about 75%.\n\nThere are active weather alerts in effect, including: Air Quality Alert, Extreme Heat Warning.\n\nWednesday: Highs ranging from .\nWednesday Night: Partly cloudy, with lows ranging from 82\u00b0F to 83\u00b0F.\n\nThursday: Sunny, with highs ranging from 101\u00b0F to 105\u00b0F.\nThursday Night: Mostly clear, with lows ranging from 76\u00b0F to 78\u00b0F.\n\nFriday: Sunny, with highs ranging from 100\u00b0F to 103\u00b0F.\nFriday Night: Clear, with lows ranging from 79\u00b0F to 82\u00b0F. Rain chances may reach about 21% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 101\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 79\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 70\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Saturday around 6 AM, when temperatures should average about 78\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 85,
     "avg_humidity": 75,
-    "avg_wind": 11,
+    "avg_wind": 10,
     "conditions": "Clear"
   },
   "alerts": [
@@ -21,19 +21,12 @@
       "severity": "Severe",
       "effective": "2026-07-01T13:18:00-04:00",
       "expires": "2026-07-04T20:00:00-04:00"
-    },
-    {
-      "event": "Air Quality Alert",
-      "headline": "Air Quality Alert issued June 30 at 3:45PM EDT by NWS Mount Holly NJ",
-      "severity": "Unknown",
-      "effective": "2026-06-30T15:45:00-04:00",
-      "expires": "2026-07-02T00:00:00-04:00"
     }
   ],
   "chart": [
     {
       "time": "2026-07-01T23:00:00-04:00",
-      "temp": 83.0,
+      "temp": 82.5,
       "precip": 12.0
     },
     {
@@ -389,6 +382,11 @@
     {
       "time": "2026-07-04T22:00:00-04:00",
       "temp": 82.3,
+      "precip": 34.0
+    },
+    {
+      "time": "2026-07-04T23:00:00-04:00",
+      "temp": 79.0,
       "precip": 34.0
     }
   ]
