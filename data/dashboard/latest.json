@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-03T23:51:07.601539",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 73\u00b0F, with clear conditions, humidity is averaging about 87%.\n\nThere are active weather alerts in effect, including: Extreme Heat Warning, Air Quality Alert.\n\nFriday: Highs ranging from .\nFriday Night: Partly cloudy, with lows ranging from 81\u00b0F to 87\u00b0F.\n\nSaturday: Sunny, with highs ranging from 94\u00b0F to 98\u00b0F. Rain chances may reach about 51%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 76\u00b0F to 79\u00b0F. Rain chances may reach about 61% overnight.\n\nSunday: Showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 85\u00b0F to 87\u00b0F. Rain chances may reach about 77%.\nSunday Night: Showers and thunderstorms, with lows ranging from 72\u00b0F to 75\u00b0F. Rain chances may reach about 85% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 86\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 76\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 69\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Saturday around 6 AM, when temperatures should average about 77\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-07-04T00:15:59.145407",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 74\u00b0F, with clear conditions, humidity is averaging about 86%.\n\nThere are active weather alerts in effect, including: Extreme Heat Warning.\n\nFriday: Highs ranging from .\nFriday Night: Partly cloudy, with lows ranging from 81\u00b0F to 87\u00b0F.\n\nSaturday: Sunny, with highs ranging from 94\u00b0F to 98\u00b0F. Rain chances may reach about 51%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 76\u00b0F to 79\u00b0F. Rain chances may reach about 61% overnight.\n\nSunday: Showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 85\u00b0F to 87\u00b0F. Rain chances may reach about 77%.\nSunday Night: Showers and thunderstorms, with lows ranging from 72\u00b0F to 75\u00b0F. Rain chances may reach about 85% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 86\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 75\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 69\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Saturday around 6 AM, when temperatures should average about 77\u00b0F with rain chances near 1%.",
   "current": {
-    "avg_temp": 73,
-    "avg_humidity": 87,
-    "avg_wind": 6,
+    "avg_temp": 74,
+    "avg_humidity": 86,
+    "avg_wind": 4,
     "conditions": "Clear"
   },
   "alerts": [
@@ -14,20 +14,13 @@
       "severity": "Severe",
       "effective": "2026-07-03T22:53:00-04:00",
       "expires": "2026-07-04T14:45:00-04:00"
-    },
-    {
-      "event": "Air Quality Alert",
-      "headline": "Air Quality Alert issued July 2 at 3:45PM EDT by NWS Mount Holly NJ",
-      "severity": "Unknown",
-      "effective": "2026-07-02T15:45:00-04:00",
-      "expires": "2026-07-04T00:00:00-04:00"
     }
   ],
   "chart": [
     {
       "time": "2026-07-03T23:00:00-04:00",
-      "temp": 83.7,
-      "precip": 12.3
+      "temp": 84.0,
+      "precip": 12.5
     },
     {
       "time": "2026-07-04T00:00:00-04:00",
@@ -382,6 +375,11 @@
     {
       "time": "2026-07-06T22:00:00-04:00",
       "temp": 72.7,
+      "precip": 78.0
+    },
+    {
+      "time": "2026-07-06T23:00:00-04:00",
+      "temp": 71.0,
       "precip": 78.0
     }
   ]
