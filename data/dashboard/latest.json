@@ -1,37 +1,32 @@
 {
-  "generated_at": "2026-07-14T16:51:03.893928",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 90\u00b0F, with clear conditions, humidity is averaging about 49%.\n\nThere are active weather alerts in effect, including: Extreme Heat Warning, Heat Advisory.\n\nTuesday: Sunny, with highs ranging from 93\u00b0F to 95\u00b0F.\nTuesday Night: Mostly clear in Doylestown, with clear in Levittown and Quakertown, with lows ranging from 79\u00b0F to 83\u00b0F.\n\nWednesday: Mostly sunny in Doylestown, with sunny in Levittown and Quakertown, with highs ranging from 97\u00b0F to 101\u00b0F.\nWednesday Night: Mostly clear, with lows ranging from 73\u00b0F to 77\u00b0F.\n\nThursday: Mostly sunny, with highs ranging from 91\u00b0F to 96\u00b0F.\nThursday Night: Partly cloudy in Doylestown and Quakertown, with mostly cloudy in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 94\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 75\u00b0F, compared with 70\u00b0F last week.\nAverage dew points over the next 72 hours come in around 66\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Thursday around 6 AM, when temperatures should average about 72\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-07-14T17:21:04.959428",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 90\u00b0F, with clear conditions, humidity is averaging about 46%.\n\nThere are active weather alerts in effect, including: Extreme Heat Warning, Heat Advisory.\n\nTuesday: Sunny, with highs ranging from 93\u00b0F to 95\u00b0F.\nTuesday Night: Mostly clear in Doylestown, with clear in Levittown and Quakertown, with lows ranging from 79\u00b0F to 83\u00b0F.\n\nWednesday: Mostly sunny in Doylestown, with sunny in Levittown and Quakertown, with highs ranging from 97\u00b0F to 101\u00b0F.\nWednesday Night: Mostly clear, with lows ranging from 73\u00b0F to 77\u00b0F.\n\nThursday: Mostly sunny, with highs ranging from 91\u00b0F to 96\u00b0F.\nThursday Night: Partly cloudy in Doylestown and Quakertown, with mostly cloudy in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 94\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 75\u00b0F, compared with 70\u00b0F last week.\nAverage dew points over the next 72 hours come in around 66\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Thursday around 6 AM, when temperatures should average about 72\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 90,
-    "avg_humidity": 49,
-    "avg_wind": 37,
+    "avg_humidity": 46,
+    "avg_wind": 40,
     "conditions": "Clear"
   },
   "alerts": [
     {
       "event": "Extreme Heat Warning",
-      "headline": "Extreme Heat Warning issued July 14 at 3:06PM EDT until July 15 at 8:00PM EDT by NWS Mount Holly NJ",
+      "headline": "Extreme Heat Warning issued July 14 at 4:54PM EDT until July 15 at 8:00PM EDT by NWS Mount Holly NJ",
       "severity": "Severe",
-      "effective": "2026-07-14T15:06:00-04:00",
+      "effective": "2026-07-14T16:54:00-04:00",
       "expires": "2026-07-15T06:00:00-04:00"
     },
     {
       "event": "Heat Advisory",
-      "headline": "Heat Advisory issued July 14 at 3:06PM EDT until July 15 at 8:00PM EDT by NWS Mount Holly NJ",
+      "headline": "Heat Advisory issued July 14 at 4:54PM EDT until July 15 at 8:00PM EDT by NWS Mount Holly NJ",
       "severity": "Moderate",
-      "effective": "2026-07-14T15:06:00-04:00",
+      "effective": "2026-07-14T16:54:00-04:00",
       "expires": "2026-07-15T06:00:00-04:00"
     }
   ],
   "chart": [
     {
-      "time": "2026-07-14T15:00:00-04:00",
-      "temp": 94.0,
-      "precip": 0.0
-    },
-    {
       "time": "2026-07-14T16:00:00-04:00",
-      "temp": 93.7,
+      "temp": 95.0,
       "precip": 0.0
     },
     {
@@ -111,7 +106,7 @@
     },
     {
       "time": "2026-07-15T08:00:00-04:00",
-      "temp": 79.0,
+      "temp": 79.3,
       "precip": 0.0
     },
     {
@@ -131,22 +126,22 @@
     },
     {
       "time": "2026-07-15T12:00:00-04:00",
-      "temp": 92.7,
+      "temp": 93.3,
       "precip": 0.0
     },
     {
       "time": "2026-07-15T13:00:00-04:00",
-      "temp": 94.3,
+      "temp": 94.7,
       "precip": 0.0
     },
     {
       "time": "2026-07-15T14:00:00-04:00",
-      "temp": 96.3,
+      "temp": 96.7,
       "precip": 3.7
     },
     {
       "time": "2026-07-15T15:00:00-04:00",
-      "temp": 97.0,
+      "temp": 97.7,
       "precip": 2.3
     },
     {
@@ -161,12 +156,12 @@
     },
     {
       "time": "2026-07-15T18:00:00-04:00",
-      "temp": 97.0,
+      "temp": 96.3,
       "precip": 8.0
     },
     {
       "time": "2026-07-15T19:00:00-04:00",
-      "temp": 96.0,
+      "temp": 94.7,
       "precip": 12.7
     },
     {
@@ -386,7 +381,12 @@
     },
     {
       "time": "2026-07-17T15:00:00-04:00",
-      "temp": 89.0,
+      "temp": 90.0,
+      "precip": 2.7
+    },
+    {
+      "time": "2026-07-17T16:00:00-04:00",
+      "temp": 89.5,
       "precip": 3.0
     }
   ]
