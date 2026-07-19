@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-07-18T22:51:05.207213",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, humidity is averaging about 94%.\n\nThere are active weather alerts in effect, including: Flood Watch, Air Quality Alert.\n\nSaturday: Highs ranging from .\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with lows ranging from 73\u00b0F to 75\u00b0F. Rain chances may reach about 62% overnight.\n\nSunday: Sunny, with highs ranging from 79\u00b0F to 83\u00b0F.\nSunday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 65\u00b0F to 72\u00b0F. Rain chances may reach about 45% overnight.\n\nMonday: Sunny, with highs ranging from 80\u00b0F to 84\u00b0F.\nMonday Night: Mostly clear in Doylestown and Levittown, with clear in Quakertown, with lows ranging from 58\u00b0F to 64\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 67\u00b0F, compared with 65\u00b0F last week.\nAverage dew points over the next 72 hours come in around 63\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Monday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-07-18T23:21:04.280877",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, humidity is averaging about 92%.\n\nThere are active weather alerts in effect, including: Air Quality Alert.\n\nSaturday: Highs ranging from .\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with lows ranging from 73\u00b0F to 75\u00b0F. Rain chances may reach about 59% overnight.\n\nSunday: Sunny, with highs ranging from 79\u00b0F to 83\u00b0F.\nSunday Night: Mostly clear in Doylestown and Quakertown, with clear in Levittown, with lows ranging from 65\u00b0F to 72\u00b0F. Rain chances may reach about 45% overnight.\n\nMonday: Sunny, with highs ranging from 80\u00b0F to 84\u00b0F.\nMonday Night: Mostly clear in Doylestown and Levittown, with clear in Quakertown, with lows ranging from 58\u00b0F to 64\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 83\u00b0F during the same stretch last week.\nThe average overnight low is 67\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 63\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Monday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 75,
-    "avg_humidity": 94,
+    "avg_humidity": 92,
     "avg_wind": 37,
     "conditions": ""
   },
   "alerts": [
-    {
-      "event": "Flood Watch",
-      "headline": "Flood Watch issued July 18 at 2:13AM EDT until July 19 at 2:00AM EDT by NWS Mount Holly NJ",
-      "severity": "Severe",
-      "effective": "2026-07-18T02:13:00-04:00",
-      "expires": "2026-07-19T02:00:00-04:00"
-    },
     {
       "event": "Air Quality Alert",
       "headline": "Air Quality Alert issued July 17 at 3:45PM EDT by NWS Mount Holly NJ",
@@ -26,8 +19,8 @@
   "chart": [
     {
       "time": "2026-07-18T22:00:00-04:00",
-      "temp": 74.7,
-      "precip": 60.0
+      "temp": 75.5,
+      "precip": 59.0
     },
     {
       "time": "2026-07-18T23:00:00-04:00",
@@ -383,6 +376,11 @@
       "time": "2026-07-21T21:00:00-04:00",
       "temp": 76.7,
       "precip": 91.7
+    },
+    {
+      "time": "2026-07-21T22:00:00-04:00",
+      "temp": 74.0,
+      "precip": 92.0
     }
   ]
 }
