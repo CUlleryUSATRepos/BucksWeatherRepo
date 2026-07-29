@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-29T03:21:06.090338",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 67\u00b0F, with cloudy conditions, humidity is averaging about 98%.\n\nThere are active weather alerts in effect, including: Flood Warning.\n\nWednesday: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 78\u00b0F to 80\u00b0F. Rain chances may reach about 37%.\nWednesday Night: Slight chance showers and thunderstorms, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 33% overnight.\n\nThursday: Partly sunny in Doylestown and Quakertown, with a slight chance of rain showers in Levittown, with highs ranging from 79\u00b0F to 80\u00b0F. Rain chances may reach about 49%.\nThursday Night: Partly cloudy, with lows ranging from 61\u00b0F to 66\u00b0F. Rain chances may reach about 49% overnight.\n\nFriday: Sunny, with highs ranging from 83\u00b0F to 85\u00b0F. Rain chances may reach about 20%.\nFriday Night: Mostly clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 61\u00b0F to 64\u00b0F. Rain chances may reach about 20% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 79\u00b0F during the same stretch last week.\nThe average overnight low is 65\u00b0F, compared with 64\u00b0F last week.\nAverage dew points over the next 72 hours come in around 68\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 9 AM, when temperatures should average about 71\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-07-29T03:51:06.000862",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 68\u00b0F, humidity is averaging about 96%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nWednesday: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 78\u00b0F to 80\u00b0F. Rain chances may reach about 37%.\nWednesday Night: Slight chance showers and thunderstorms, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 33% overnight.\n\nThursday: Partly sunny in Doylestown and Quakertown, with a slight chance of rain showers in Levittown, with highs ranging from 79\u00b0F to 80\u00b0F. Rain chances may reach about 49%.\nThursday Night: Partly cloudy, with lows ranging from 61\u00b0F to 66\u00b0F. Rain chances may reach about 49% overnight.\n\nFriday: Sunny, with highs ranging from 83\u00b0F to 85\u00b0F. Rain chances may reach about 20%.\nFriday Night: Mostly clear in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 61\u00b0F to 64\u00b0F. Rain chances may reach about 20% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 79\u00b0F during the same stretch last week.\nThe average overnight low is 65\u00b0F, compared with 64\u00b0F last week.\nAverage dew points over the next 72 hours come in around 68\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 9 AM, when temperatures should average about 71\u00b0F with rain chances near 1%.",
   "current": {
-    "avg_temp": 67,
-    "avg_humidity": 98,
-    "avg_wind": 6,
-    "conditions": "Cloudy"
+    "avg_temp": 68,
+    "avg_humidity": 96,
+    "avg_wind": 10,
+    "conditions": ""
   },
-  "alerts": [
-    {
-      "event": "Flood Warning",
-      "headline": "Flood Warning issued July 28 at 11:36PM EDT until July 29 at 3:45AM EDT by NWS Mount Holly NJ",
-      "severity": "Severe",
-      "effective": "2026-07-28T23:36:00-04:00",
-      "expires": "2026-07-29T03:45:00-04:00"
-    }
-  ],
+  "alerts": [],
   "chart": [
     {
       "time": "2026-07-29T03:00:00-04:00",
