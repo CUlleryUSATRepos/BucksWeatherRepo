@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-01T02:51:06.151805",
+  "generated_at": "2026-08-01T03:21:06.154860",
   "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 69\u00b0F, with clear conditions, humidity is averaging about 90%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nSaturday: Mostly cloudy in Doylestown and Quakertown, with mostly sunny in Levittown, with highs ranging from 86\u00b0F to 89\u00b0F.\nSaturday Night: Mostly cloudy, with lows ranging from 65\u00b0F to 69\u00b0F.\n\nSunday: Partly sunny in Doylestown and Levittown, with mostly cloudy in Quakertown, with highs ranging from 85\u00b0F to 88\u00b0F.\nSunday Night: Mostly cloudy, with lows ranging from 69\u00b0F to 72\u00b0F. Rain chances may reach about 47% overnight.\n\nMonday: Showers and thunderstorms, with highs ranging from 81\u00b0F to 83\u00b0F. Rain chances may reach about 85%.\nMonday Night: Showers and thunderstorms, with lows ranging from 69\u00b0F to 72\u00b0F. Rain chances may reach about 85% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 85\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 70\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 70\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 8 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 69,
     "avg_humidity": 90,
-    "avg_wind": 4,
+    "avg_wind": 0,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
     {
       "time": "2026-08-01T02:00:00-04:00",
-      "temp": 69.0,
+      "temp": 70.0,
       "precip": 6.0
     },
     {
@@ -368,6 +368,11 @@
       "time": "2026-08-04T01:00:00-04:00",
       "temp": 72.0,
       "precip": 58.7
+    },
+    {
+      "time": "2026-08-04T02:00:00-04:00",
+      "temp": 69.0,
+      "precip": 27.0
     }
   ]
 }
