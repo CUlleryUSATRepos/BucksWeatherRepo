@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-03T07:21:07.152608",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, with cloudy conditions, humidity is averaging about 98%.\n\nThere are active weather alerts in effect, including: Flood Warning, Flood Watch.\n\nMonday: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 89%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 83\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 70\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-03T07:51:08.868062",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 75\u00b0F, with cloudy conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Flood Warning, Flood Watch.\n\nMonday: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 89%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 70\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 75,
-    "avg_humidity": 98,
-    "avg_wind": 11,
+    "avg_humidity": 96,
+    "avg_wind": 19,
     "conditions": "Cloudy"
   },
   "alerts": [
@@ -31,11 +31,6 @@
     }
   ],
   "chart": [
-    {
-      "time": "2026-08-03T06:00:00-04:00",
-      "temp": 72.5,
-      "precip": 77.0
-    },
     {
       "time": "2026-08-03T07:00:00-04:00",
       "temp": 73.7,
@@ -393,8 +388,8 @@
     },
     {
       "time": "2026-08-06T06:00:00-04:00",
-      "temp": 74.0,
-      "precip": 24.0
+      "temp": 71.7,
+      "precip": 25.0
     }
   ]
 }
