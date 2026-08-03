@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T14:51:06.897916",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 84\u00b0F, with mostly clear conditions, humidity is averaging about 65%.\n\nThere are active weather alerts in effect, including: Flood Watch, Flood Warning.\n\nMonday: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 71%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 75\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-03T15:21:07.289219",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 84\u00b0F, humidity is averaging about 64%.\n\nThere are active weather alerts in effect, including: Flood Watch, Flood Warning.\n\nMonday: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 71%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 75\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 84,
-    "avg_humidity": 65,
-    "avg_wind": 23,
-    "conditions": "Mostly Clear"
+    "avg_humidity": 64,
+    "avg_wind": 26,
+    "conditions": ""
   },
   "alerts": [
     {
@@ -17,18 +17,13 @@
     },
     {
       "event": "Flood Warning",
-      "headline": "Flood Warning issued August 3 at 1:20PM EDT until August 3 at 3:15PM EDT by NWS Mount Holly NJ",
+      "headline": "Flood Warning issued August 3 at 3:09PM EDT until August 3 at 5:15PM EDT by NWS Mount Holly NJ",
       "severity": "Severe",
-      "effective": "2026-08-03T13:20:00-04:00",
-      "expires": "2026-08-03T15:15:00-04:00"
+      "effective": "2026-08-03T15:09:00-04:00",
+      "expires": "2026-08-03T17:15:00-04:00"
     }
   ],
   "chart": [
-    {
-      "time": "2026-08-03T13:00:00-04:00",
-      "temp": 81.0,
-      "precip": 43.0
-    },
     {
       "time": "2026-08-03T14:00:00-04:00",
       "temp": 81.7,
@@ -386,7 +381,7 @@
     },
     {
       "time": "2026-08-06T13:00:00-04:00",
-      "temp": 84.0,
+      "temp": 85.3,
       "precip": 12.0
     }
   ]
