@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-03T13:21:05.863313",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 81\u00b0F, with clear conditions, humidity is averaging about 81%.\n\nThere are active weather alerts in effect, including: Flood Watch, Flood Warning.\n\nMonday: A chance of showers and thunderstorms, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 71%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 83\u00b0F, compared with 76\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-03T13:51:08.226279",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 82\u00b0F, with mostly cloudy conditions, humidity is averaging about 74%.\n\nThere are active weather alerts in effect, including: Flood Watch, Flood Warning.\n\nMonday: A chance of showers and thunderstorms in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 82\u00b0F to 83\u00b0F. Rain chances may reach about 71%.\nMonday Night: Partly cloudy in Doylestown and Levittown, with mostly clear in Quakertown, with lows ranging from 70\u00b0F to 74\u00b0F. Rain chances may reach about 33% overnight.\n\nTuesday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F.\nTuesday Night: Partly cloudy, with lows ranging from 63\u00b0F to 67\u00b0F.\n\nWednesday: A chance of rain showers, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 61%.\nWednesday Night: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with lows ranging from 64\u00b0F to 68\u00b0F. Rain chances may reach about 61% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 76\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Tuesday around 9 AM, when temperatures should average about 70\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 81,
-    "avg_humidity": 81,
-    "avg_wind": 29,
-    "conditions": "Clear"
+    "avg_temp": 82,
+    "avg_humidity": 74,
+    "avg_wind": 30,
+    "conditions": "Mostly Cloudy"
   },
   "alerts": [
     {
       "event": "Flood Watch",
-      "headline": "Flood Watch issued August 3 at 3:13AM EDT until August 3 at 11:00PM EDT by NWS Mount Holly NJ",
+      "headline": "Flood Watch issued August 3 at 1:33PM EDT until August 3 at 11:00PM EDT by NWS Mount Holly NJ",
       "severity": "Severe",
-      "effective": "2026-08-03T03:13:00-04:00",
-      "expires": "2026-08-03T17:00:00-04:00"
+      "effective": "2026-08-03T13:33:00-04:00",
+      "expires": "2026-08-03T23:00:00-04:00"
     },
     {
       "event": "Flood Warning",
@@ -27,7 +27,7 @@
     {
       "time": "2026-08-03T12:00:00-04:00",
       "temp": 80.0,
-      "precip": 38.0
+      "precip": 39.0
     },
     {
       "time": "2026-08-03T13:00:00-04:00",
@@ -383,6 +383,11 @@
       "time": "2026-08-06T11:00:00-04:00",
       "temp": 82.0,
       "precip": 12.0
+    },
+    {
+      "time": "2026-08-06T12:00:00-04:00",
+      "temp": 84.0,
+      "precip": 11.5
     }
   ]
 }
