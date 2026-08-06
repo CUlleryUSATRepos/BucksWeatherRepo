@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:21:07.681676",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 86\u00b0F, with mostly clear conditions, humidity is averaging about 73%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: Isolated showers and thunderstorms in doylestown, scattered showers and thunderstorms in Quakertown, and mostly sunny in Levittown, with highs ranging from 88\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nThursday Night: Scattered showers and thunderstorms in Doylestown and Quakertown, with isolated showers and thunderstorms in Levittown, with lows ranging from 76\u00b0F to 80\u00b0F. Rain chances may reach about 50% overnight.\n\nFriday: Mostly sunny in doylestown, a chance of showers and thunderstorms in Quakertown, and sunny in Levittown, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 48%.\nFriday Night: Showers and thunderstorms likely in doylestown, mostly cloudy in Quakertown, and partly cloudy in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F. Rain chances may reach about 64% overnight.\n\nSaturday: Mostly sunny, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nSaturday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 88\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 74\u00b0F, compared with 71\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 8 AM, when temperatures should average about 75\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-08-06T13:51:06.159117",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 87\u00b0F, with clear conditions, humidity is averaging about 68%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: Isolated showers and thunderstorms in doylestown, scattered showers and thunderstorms in Quakertown, and mostly sunny in Levittown, with highs ranging from 88\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nThursday Night: Scattered showers and thunderstorms in Doylestown and Quakertown, with isolated showers and thunderstorms in Levittown, with lows ranging from 76\u00b0F to 80\u00b0F. Rain chances may reach about 50% overnight.\n\nFriday: Mostly sunny in doylestown, a chance of showers and thunderstorms in Quakertown, and sunny in Levittown, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 48%.\nFriday Night: Showers and thunderstorms likely in doylestown, mostly cloudy in Quakertown, and partly cloudy in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F. Rain chances may reach about 64% overnight.\n\nSaturday: Mostly sunny, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nSaturday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 88\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 74\u00b0F, compared with 71\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 8 AM, when temperatures should average about 75\u00b0F with rain chances near 1%.",
   "current": {
-    "avg_temp": 86,
-    "avg_humidity": 73,
-    "avg_wind": 24,
-    "conditions": "Mostly Clear"
+    "avg_temp": 87,
+    "avg_humidity": 68,
+    "avg_wind": 19,
+    "conditions": "Clear"
   },
   "alerts": [
     {
@@ -24,11 +24,6 @@
     }
   ],
   "chart": [
-    {
-      "time": "2026-08-06T12:00:00-04:00",
-      "temp": 85.5,
-      "precip": 8.0
-    },
     {
       "time": "2026-08-06T13:00:00-04:00",
       "temp": 87.3,
@@ -386,8 +381,8 @@
     },
     {
       "time": "2026-08-09T12:00:00-04:00",
-      "temp": 84.0,
-      "precip": 1.0
+      "temp": 84.7,
+      "precip": 1.3
     }
   ]
 }
