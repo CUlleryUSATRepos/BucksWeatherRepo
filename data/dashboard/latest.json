@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T11:21:08.309217",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 82\u00b0F, with mostly cloudy conditions, humidity is averaging about 82%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: A chance of showers and thunderstorms in Doylestown and Quakertown, with mostly sunny in Levittown, with highs ranging from 88\u00b0F to 91\u00b0F. Rain chances may reach about 50%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 76\u00b0F to 80\u00b0F. Rain chances may reach about 50% overnight.\n\nFriday: A chance of showers and thunderstorms in Doylestown and Quakertown, with sunny in Levittown, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 48%.\nFriday Night: Patchy fog in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F. Rain chances may reach about 64% overnight.\n\nSaturday: Mostly sunny, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nSaturday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 86\u00b0F, compared with 83\u00b0F during the same stretch last week.\nThe average overnight low is 74\u00b0F, compared with 72\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 8 AM, when temperatures should average about 75\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-08-06T11:51:05.712903",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 83\u00b0F, humidity is averaging about 81%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: A chance of showers and thunderstorms in doylestown, scattered showers and thunderstorms in Quakertown, and mostly sunny in Levittown, with highs ranging from 88\u00b0F to 91\u00b0F. Rain chances may reach about 50%.\nThursday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with scattered showers and thunderstorms in Quakertown, with lows ranging from 76\u00b0F to 80\u00b0F. Rain chances may reach about 50% overnight.\n\nFriday: A chance of showers and thunderstorms in Doylestown and Quakertown, with sunny in Levittown, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 48%.\nFriday Night: Patchy fog in doylestown, mostly cloudy in Quakertown, and showers and thunderstorms likely in Levittown, with lows ranging from 72\u00b0F to 76\u00b0F. Rain chances may reach about 64% overnight.\n\nSaturday: Mostly sunny, with highs ranging from 87\u00b0F to 91\u00b0F. Rain chances may reach about 31%.\nSaturday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 86\u00b0F, compared with 83\u00b0F during the same stretch last week.\nThe average overnight low is 74\u00b0F, compared with 72\u00b0F last week.\nAverage dew points over the next 72 hours come in around 71\u00b0F, which suggests very humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 8 AM, when temperatures should average about 75\u00b0F with rain chances near 1%.",
   "current": {
-    "avg_temp": 82,
-    "avg_humidity": 82,
-    "avg_wind": 15,
-    "conditions": "Mostly Cloudy"
+    "avg_temp": 83,
+    "avg_humidity": 81,
+    "avg_wind": 18,
+    "conditions": ""
   },
   "alerts": [
     {
@@ -26,13 +26,13 @@
   "chart": [
     {
       "time": "2026-08-06T10:00:00-04:00",
-      "temp": 80.7,
-      "precip": 2.3
+      "temp": 82.0,
+      "precip": 2.0
     },
     {
       "time": "2026-08-06T11:00:00-04:00",
       "temp": 83.3,
-      "precip": 2.3
+      "precip": 5.0
     },
     {
       "time": "2026-08-06T12:00:00-04:00",
@@ -52,27 +52,27 @@
     {
       "time": "2026-08-06T15:00:00-04:00",
       "temp": 89.3,
-      "precip": 28.0
+      "precip": 25.7
     },
     {
       "time": "2026-08-06T16:00:00-04:00",
       "temp": 89.3,
-      "precip": 36.7
+      "precip": 32.3
     },
     {
       "time": "2026-08-06T17:00:00-04:00",
       "temp": 89.3,
-      "precip": 44.7
+      "precip": 38.3
     },
     {
       "time": "2026-08-06T18:00:00-04:00",
       "temp": 88.0,
-      "precip": 45.3
+      "precip": 38.0
     },
     {
       "time": "2026-08-06T19:00:00-04:00",
       "temp": 86.0,
-      "precip": 46.0
+      "precip": 42.7
     },
     {
       "time": "2026-08-06T20:00:00-04:00",
@@ -82,42 +82,42 @@
     {
       "time": "2026-08-06T21:00:00-04:00",
       "temp": 81.7,
-      "precip": 40.0
+      "precip": 38.3
     },
     {
       "time": "2026-08-06T22:00:00-04:00",
       "temp": 78.7,
-      "precip": 33.3
+      "precip": 29.3
     },
     {
       "time": "2026-08-06T23:00:00-04:00",
       "temp": 77.7,
-      "precip": 26.7
+      "precip": 21.0
     },
     {
       "time": "2026-08-07T00:00:00-04:00",
       "temp": 77.0,
-      "precip": 19.0
+      "precip": 16.7
     },
     {
       "time": "2026-08-07T01:00:00-04:00",
       "temp": 76.7,
-      "precip": 11.3
+      "precip": 10.0
     },
     {
       "time": "2026-08-07T02:00:00-04:00",
       "temp": 75.7,
-      "precip": 3.3
+      "precip": 4.0
     },
     {
       "time": "2026-08-07T03:00:00-04:00",
       "temp": 75.7,
-      "precip": 3.0
+      "precip": 3.7
     },
     {
       "time": "2026-08-07T04:00:00-04:00",
       "temp": 74.7,
-      "precip": 2.7
+      "precip": 3.3
     },
     {
       "time": "2026-08-07T05:00:00-04:00",
@@ -132,7 +132,7 @@
     {
       "time": "2026-08-07T07:00:00-04:00",
       "temp": 74.3,
-      "precip": 5.7
+      "precip": 5.3
     },
     {
       "time": "2026-08-07T08:00:00-04:00",
@@ -383,6 +383,11 @@
       "time": "2026-08-09T09:00:00-04:00",
       "temp": 77.3,
       "precip": 1.3
+    },
+    {
+      "time": "2026-08-09T10:00:00-04:00",
+      "temp": 79.0,
+      "precip": 1.0
     }
   ]
 }
