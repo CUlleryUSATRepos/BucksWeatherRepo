@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T12:15:59.215972",
+  "generated_at": "2026-08-11T12:21:05.948914",
   "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 81\u00b0F, with clear conditions, humidity is averaging about 68%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: A chance of showers and thunderstorms, with highs ranging from 85\u00b0F to 90\u00b0F. Rain chances may reach about 58%.\nTuesday Night: A chance of showers and thunderstorms, with lows ranging from 72\u00b0F to 76\u00b0F. Rain chances may reach about 50% overnight.\n\nWednesday: Sunny in Doylestown and Quakertown, with mostly sunny in Levittown, with highs ranging from 84\u00b0F to 87\u00b0F. Rain chances may reach about 52%.\nWednesday Night: A chance of rain showers in Doylestown and Quakertown, with partly cloudy in Levittown, with lows ranging from 67\u00b0F to 72\u00b0F. Rain chances may reach about 50% overnight.\n\nThursday: A slight chance of rain showers, with highs ranging from 85\u00b0F to 89\u00b0F. Rain chances may reach about 31%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 31% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 83\u00b0F during the same stretch last week.\nThe average overnight low is 70\u00b0F, compared with 73\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Wednesday around 1 PM, when temperatures should average about 83\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 81,
     "avg_humidity": 68,
-    "avg_wind": 22,
+    "avg_wind": 17,
     "conditions": "Clear"
   },
   "alerts": [],
   "chart": [
     {
       "time": "2026-08-11T11:00:00-04:00",
-      "temp": 82.3,
+      "temp": 82.0,
       "precip": 1.0
     },
     {
@@ -368,6 +368,11 @@
       "time": "2026-08-14T10:00:00-04:00",
       "temp": 75.3,
       "precip": 9.3
+    },
+    {
+      "time": "2026-08-14T11:00:00-04:00",
+      "temp": 78.0,
+      "precip": 9.5
     }
   ]
 }
