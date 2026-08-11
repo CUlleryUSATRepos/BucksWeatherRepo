@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T16:15:58.472713",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 84\u00b0F, with mostly clear conditions, humidity is averaging about 62%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: A chance of showers and thunderstorms, with highs ranging from 86\u00b0F to 89\u00b0F. Rain chances may reach about 61%.\nTuesday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nWednesday: A slight chance of rain showers, with highs ranging from 84\u00b0F to 87\u00b0F. Rain chances may reach about 29%.\nWednesday Night: A chance of showers and thunderstorms, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 45% overnight.\n\nThursday: Mostly sunny, with highs ranging from 83\u00b0F to 87\u00b0F.\nThursday Night: A slight chance of rain showers in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 67\u00b0F to 71\u00b0F. Rain chances may reach about 28% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 84\u00b0F during the same stretch last week.\nThe average overnight low is 70\u00b0F, compared with 73\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Thursday around 6 AM, when temperatures should average about 68\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-11T16:21:08.114017",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 84\u00b0F, with mostly clear conditions, humidity is averaging about 64%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nTuesday: A chance of showers and thunderstorms, with highs ranging from 84\u00b0F to 87\u00b0F. Rain chances may reach about 61%.\nTuesday Night: A chance of showers and thunderstorms, with lows ranging from 71\u00b0F to 75\u00b0F. Rain chances may reach about 64% overnight.\n\nWednesday: A slight chance of rain showers, with highs ranging from 84\u00b0F to 87\u00b0F. Rain chances may reach about 29%.\nWednesday Night: A chance of showers and thunderstorms, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 45% overnight.\n\nThursday: Mostly sunny, with highs ranging from 83\u00b0F to 87\u00b0F.\nThursday Night: A slight chance of rain showers in Doylestown and Levittown, with partly cloudy in Quakertown, with lows ranging from 67\u00b0F to 71\u00b0F. Rain chances may reach about 28% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 84\u00b0F, compared with 84\u00b0F during the same stretch last week.\nThe average overnight low is 70\u00b0F, compared with 73\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Thursday around 6 AM, when temperatures should average about 68\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 84,
-    "avg_humidity": 62,
+    "avg_humidity": 64,
     "avg_wind": 17,
     "conditions": "Mostly Clear"
   },
@@ -11,8 +11,8 @@
   "chart": [
     {
       "time": "2026-08-11T15:00:00-04:00",
-      "temp": 87.0,
-      "precip": 33.0
+      "temp": 86.0,
+      "precip": 32.0
     },
     {
       "time": "2026-08-11T16:00:00-04:00",
@@ -368,6 +368,11 @@
       "time": "2026-08-14T14:00:00-04:00",
       "temp": 81.0,
       "precip": 6.3
+    },
+    {
+      "time": "2026-08-14T15:00:00-04:00",
+      "temp": 80.5,
+      "precip": 6.0
     }
   ]
 }
