@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-13T12:15:58.655835",
+  "generated_at": "2026-08-13T12:21:07.796576",
   "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 81\u00b0F, with mostly cloudy conditions, humidity is averaging about 62%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nThursday: Mostly sunny in Doylestown and Levittown, with partly sunny in Quakertown, with highs ranging from 85\u00b0F to 88\u00b0F.\nThursday Night: Partly cloudy in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 72\u00b0F to 76\u00b0F.\n\nFriday: Mostly sunny, with highs ranging from 84\u00b0F to 88\u00b0F.\nFriday Night: Partly cloudy, with lows ranging from 66\u00b0F to 71\u00b0F.\n\nSaturday: Sunny, with highs ranging from 82\u00b0F to 86\u00b0F.\nSaturday Night: Partly cloudy, with lows ranging from 63\u00b0F to 68\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 83\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 68\u00b0F, compared with 72\u00b0F last week.\nAverage dew points over the next 72 hours come in around 66\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 10 AM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 81,
     "avg_humidity": 62,
-    "avg_wind": 25,
+    "avg_wind": 33,
     "conditions": "Mostly Cloudy"
   },
   "alerts": [],
   "chart": [
     {
       "time": "2026-08-13T11:00:00-04:00",
-      "temp": 79.3,
-      "precip": 1.3
+      "temp": 81.0,
+      "precip": 2.0
     },
     {
       "time": "2026-08-13T12:00:00-04:00",
@@ -368,6 +368,11 @@
       "time": "2026-08-16T10:00:00-04:00",
       "temp": 75.3,
       "precip": 26.7
+    },
+    {
+      "time": "2026-08-16T11:00:00-04:00",
+      "temp": 77.5,
+      "precip": 32.5
     }
   ]
 }
