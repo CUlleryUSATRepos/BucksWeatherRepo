@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-08-20T18:51:06.199841",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 68\u00b0F, with heavy rain and fog/mist conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Tornado Watch, Flood Watch, Flash Flood Warning.\n\nThursday: Highs ranging from .\nThursday Night: Showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 100% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 67\u00b0F last week.\nAverage dew points over the next 72 hours come in around 65\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-20T19:21:05.513696",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 66\u00b0F, with heavy rain and fog/mist conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Flood Watch, Flash Flood Warning.\n\nThursday: Highs ranging from .\nThursday Night: Showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 100% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 77\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 67\u00b0F last week.\nAverage dew points over the next 72 hours come in around 65\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 68,
+    "avg_temp": 66,
     "avg_humidity": 96,
-    "avg_wind": 54,
+    "avg_wind": 46,
     "conditions": "Heavy Rain and Fog/Mist"
   },
   "alerts": [
-    {
-      "event": "Tornado Watch",
-      "headline": "Tornado Watch issued August 20 at 6:18PM EDT until August 20 at 10:00PM EDT by NWS Mount Holly NJ",
-      "severity": "Extreme",
-      "effective": "2026-08-20T18:18:00-04:00",
-      "expires": "2026-08-20T22:00:00-04:00"
-    },
     {
       "event": "Flood Watch",
       "headline": "Flood Watch issued August 20 at 12:55PM EDT until August 21 at 2:00AM EDT by NWS Mount Holly NJ",
@@ -24,17 +17,17 @@
     },
     {
       "event": "Flash Flood Warning",
-      "headline": "Flash Flood Warning issued August 20 at 6:26PM EDT until August 20 at 10:30PM EDT by NWS Mount Holly NJ",
+      "headline": "Flash Flood Warning issued August 20 at 7:19PM EDT until August 20 at 10:30PM EDT by NWS Mount Holly NJ",
       "severity": "Severe",
-      "effective": "2026-08-20T18:26:00-04:00",
+      "effective": "2026-08-20T19:19:00-04:00",
       "expires": "2026-08-20T22:30:00-04:00"
     }
   ],
   "chart": [
     {
       "time": "2026-08-20T18:00:00-04:00",
-      "temp": 72.7,
-      "precip": 93.0
+      "temp": 73.5,
+      "precip": 89.5
     },
     {
       "time": "2026-08-20T19:00:00-04:00",
@@ -390,6 +383,11 @@
       "time": "2026-08-23T17:00:00-04:00",
       "temp": 79.7,
       "precip": 44.0
+    },
+    {
+      "time": "2026-08-23T18:00:00-04:00",
+      "temp": 76.0,
+      "precip": 47.0
     }
   ]
 }
