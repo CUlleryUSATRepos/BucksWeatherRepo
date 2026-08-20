@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-20T14:51:05.893720",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 76\u00b0F, with mostly clear conditions, humidity is averaging about 86%.\n\nThere are active weather alerts in effect, including: Severe Thunderstorm Watch, Flood Watch.\n\nThursday: Showers and thunderstorms likely, with highs ranging from 77\u00b0F to 83\u00b0F. Rain chances may reach about 93%.\nThursday Night: Showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 100% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 79\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 66\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-20T15:21:10.075409",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 80\u00b0F, with mostly cloudy conditions, humidity is averaging about 74%.\n\nThere are active weather alerts in effect, including: Tornado Watch, Flood Watch.\n\nThursday: Showers and thunderstorms likely, with highs ranging from 75\u00b0F to 83\u00b0F. Rain chances may reach about 93%.\nThursday Night: Showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 100% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 68\u00b0F last week.\nAverage dew points over the next 72 hours come in around 65\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
   "current": {
-    "avg_temp": 76,
-    "avg_humidity": 86,
-    "avg_wind": 13,
-    "conditions": "Mostly Clear"
+    "avg_temp": 80,
+    "avg_humidity": 74,
+    "avg_wind": 22,
+    "conditions": "Mostly Cloudy"
   },
   "alerts": [
     {
-      "event": "Severe Thunderstorm Watch",
-      "headline": "Severe Thunderstorm Watch issued August 20 at 2:32PM EDT until August 20 at 10:00PM EDT by NWS Mount Holly NJ",
-      "severity": "Severe",
-      "effective": "2026-08-20T14:32:00-04:00",
+      "event": "Tornado Watch",
+      "headline": "Tornado Watch issued August 20 at 3:00PM EDT until August 20 at 10:00PM EDT by NWS Mount Holly NJ",
+      "severity": "Extreme",
+      "effective": "2026-08-20T15:00:00-04:00",
       "expires": "2026-08-20T22:00:00-04:00"
     },
     {
@@ -25,14 +25,9 @@
   ],
   "chart": [
     {
-      "time": "2026-08-20T13:00:00-04:00",
-      "temp": 83.0,
-      "precip": 27.0
-    },
-    {
       "time": "2026-08-20T14:00:00-04:00",
-      "temp": 79.7,
-      "precip": 58.0
+      "temp": 81.0,
+      "precip": 57.5
     },
     {
       "time": "2026-08-20T15:00:00-04:00",
@@ -386,8 +381,13 @@
     },
     {
       "time": "2026-08-23T13:00:00-04:00",
-      "temp": 79.5,
-      "precip": 21.0
+      "temp": 80.0,
+      "precip": 18.0
+    },
+    {
+      "time": "2026-08-23T14:00:00-04:00",
+      "temp": 79.0,
+      "precip": 47.0
     }
   ]
 }
