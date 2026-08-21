@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-20T21:51:09.301814",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 65\u00b0F, with clear conditions, humidity is averaging about 94%.\n\nThere are active weather alerts in effect, including: Flash Flood Warning.\n\nThursday: Highs ranging from .\nThursday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 67% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 77\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 66\u00b0F last week.\nAverage dew points over the next 72 hours come in around 65\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-20T22:21:08.205534",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 65\u00b0F, with clear conditions, humidity is averaging about 92%.\n\nThere are active weather alerts in effect, including: Flash Flood Warning.\n\nThursday: Highs ranging from .\nThursday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 66\u00b0F to 70\u00b0F. Rain chances may reach about 51% overnight.\n\nFriday: Partly sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 79\u00b0F to 80\u00b0F.\nFriday Night: Mostly cloudy, with lows ranging from 62\u00b0F to 67\u00b0F.\n\nSaturday: Rain showers likely in Doylestown and Quakertown, with showers and thunderstorms likely in Levittown, with highs ranging from 76\u00b0F to 78\u00b0F. Rain chances may reach about 67%.\nSaturday Night: A chance of showers and thunderstorms in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 65\u00b0F to 69\u00b0F. Rain chances may reach about 62% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 79\u00b0F, compared with 77\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 66\u00b0F last week.\nAverage dew points over the next 72 hours come in around 65\u00b0F, which suggests muggy conditions overall.\nOne of the better outdoor windows looks to be Friday around 1 PM, when temperatures should average about 77\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 65,
-    "avg_humidity": 94,
-    "avg_wind": 28,
+    "avg_humidity": 92,
+    "avg_wind": 30,
     "conditions": "Clear"
   },
   "alerts": [
@@ -19,8 +19,8 @@
   "chart": [
     {
       "time": "2026-08-20T21:00:00-04:00",
-      "temp": 68.7,
-      "precip": 48.7
+      "temp": 67.5,
+      "precip": 39.5
     },
     {
       "time": "2026-08-20T22:00:00-04:00",
@@ -376,6 +376,11 @@
       "time": "2026-08-23T20:00:00-04:00",
       "temp": 75.0,
       "precip": 10.0
+    },
+    {
+      "time": "2026-08-23T21:00:00-04:00",
+      "temp": 75.0,
+      "precip": 11.0
     }
   ]
 }
