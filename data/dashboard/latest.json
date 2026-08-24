@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-23T19:51:05.685328",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 73\u00b0F, with clear conditions, humidity is averaging about 71%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nSunday: Highs ranging from .\nSunday Night: Clear, with lows ranging from 64\u00b0F to 69\u00b0F.\n\nMonday: Sunny, with highs ranging from 77\u00b0F to 81\u00b0F.\nMonday Night: Clear, with lows ranging from 57\u00b0F to 63\u00b0F.\n\nTuesday: Sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 78\u00b0F to 82\u00b0F.\nTuesday Night: Mostly clear, with lows ranging from 57\u00b0F to 62\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 80\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 61\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 63\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Wednesday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-08-23T20:15:59.818560",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 73\u00b0F, with cloudy conditions, humidity is averaging about 70%.\n\nThere are currently no active weather alerts for the three Bucks County locations in this pull.\n\nSunday: Highs ranging from .\nSunday Night: Clear, with lows ranging from 64\u00b0F to 69\u00b0F.\n\nMonday: Sunny, with highs ranging from 77\u00b0F to 81\u00b0F.\nMonday Night: Clear, with lows ranging from 57\u00b0F to 63\u00b0F.\n\nTuesday: Sunny in Doylestown and Levittown, with mostly sunny in Quakertown, with highs ranging from 78\u00b0F to 82\u00b0F.\nTuesday Night: Mostly clear, with lows ranging from 57\u00b0F to 62\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 80\u00b0F, compared with 82\u00b0F during the same stretch last week.\nThe average overnight low is 61\u00b0F, compared with 69\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Wednesday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 73,
-    "avg_humidity": 71,
-    "avg_wind": 11,
-    "conditions": "Clear"
+    "avg_humidity": 70,
+    "avg_wind": 19,
+    "conditions": "Cloudy"
   },
   "alerts": [],
   "chart": [
     {
       "time": "2026-08-23T19:00:00-04:00",
-      "temp": 76.0,
-      "precip": 15.7
+      "temp": 77.0,
+      "precip": 15.0
     },
     {
       "time": "2026-08-23T20:00:00-04:00",
@@ -367,6 +367,11 @@
     {
       "time": "2026-08-26T18:00:00-04:00",
       "temp": 79.7,
+      "precip": 0.0
+    },
+    {
+      "time": "2026-08-26T19:00:00-04:00",
+      "temp": 74.0,
       "precip": 0.0
     }
   ]
