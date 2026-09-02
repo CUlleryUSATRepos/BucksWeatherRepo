@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-02T13:51:05.486172",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 70\u00b0F, with cloudy conditions, humidity is averaging about 90%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nWednesday: A chance of rain showers, with highs ranging from 74\u00b0F to 77\u00b0F. Rain chances may reach about 37%.\nWednesday Night: A chance of showers and thunderstorms, with lows ranging from 68\u00b0F to 70\u00b0F. Rain chances may reach about 60% overnight.\n\nThursday: A chance of showers and thunderstorms, with highs ranging from 86\u00b0F to 89\u00b0F. Rain chances may reach about 50%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 67\u00b0F to 70\u00b0F. Rain chances may reach about 61% overnight.\n\nFriday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 28%.\nFriday Night: Partly cloudy, with lows ranging from 67\u00b0F to 72\u00b0F. Rain chances may reach about 51% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 80\u00b0F, compared with 75\u00b0F during the same stretch last week.\nThe average overnight low is 67\u00b0F, compared with 65\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 9 AM, when temperatures should average about 66\u00b0F with rain chances near 1%.",
+  "generated_at": "2026-09-02T14:21:07.710881",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 70\u00b0F, with cloudy conditions, humidity is averaging about 90%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nWednesday: A chance of rain showers, with highs ranging from 74\u00b0F to 77\u00b0F. Rain chances may reach about 37%.\nWednesday Night: A chance of showers and thunderstorms, with lows ranging from 68\u00b0F to 70\u00b0F. Rain chances may reach about 60% overnight.\n\nThursday: A chance of showers and thunderstorms, with highs ranging from 86\u00b0F to 89\u00b0F. Rain chances may reach about 50%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 67\u00b0F to 70\u00b0F. Rain chances may reach about 61% overnight.\n\nFriday: Mostly sunny, with highs ranging from 83\u00b0F to 86\u00b0F. Rain chances may reach about 28%.\nFriday Night: Partly cloudy, with lows ranging from 67\u00b0F to 72\u00b0F. Rain chances may reach about 51% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 81\u00b0F, compared with 76\u00b0F during the same stretch last week.\nThe average overnight low is 67\u00b0F, compared with 65\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 9 AM, when temperatures should average about 66\u00b0F with rain chances near 1%.",
   "current": {
     "avg_temp": 70,
     "avg_humidity": 90,
-    "avg_wind": 15,
+    "avg_wind": 7,
     "conditions": "Cloudy"
   },
   "alerts": [
     {
       "event": "Heat Advisory",
-      "headline": "Heat Advisory issued September 2 at 3:53AM EDT until September 3 at 8:00PM EDT by NWS Mount Holly NJ",
+      "headline": "Heat Advisory issued September 2 at 2:10PM EDT until September 3 at 8:00PM EDT by NWS Mount Holly NJ",
       "severity": "Moderate",
-      "effective": "2026-09-02T03:53:00-04:00",
-      "expires": "2026-09-02T17:00:00-04:00"
+      "effective": "2026-09-02T14:10:00-04:00",
+      "expires": "2026-09-03T05:00:00-04:00"
     }
   ],
   "chart": [
     {
       "time": "2026-09-02T13:00:00-04:00",
-      "temp": 72.7,
-      "precip": 30.3
+      "temp": 74.0,
+      "precip": 26.0
     },
     {
       "time": "2026-09-02T14:00:00-04:00",
@@ -376,6 +376,11 @@
       "time": "2026-09-05T12:00:00-04:00",
       "temp": 75.3,
       "precip": 1.3
+    },
+    {
+      "time": "2026-09-05T13:00:00-04:00",
+      "temp": 76.5,
+      "precip": 1.0
     }
   ]
 }
