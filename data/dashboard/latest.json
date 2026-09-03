@@ -1,27 +1,22 @@
 {
-  "generated_at": "2026-09-03T01:21:05.403371",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 69\u00b0F, with heavy rain and fog/mist conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with highs ranging from 87\u00b0F to 89\u00b0F. Rain chances may reach about 49%.\nThursday Night: A chance of rain showers in doylestown, showers and thunderstorms likely in Quakertown, and a chance of showers and thunderstorms in Levittown, with lows ranging from 68\u00b0F to 70\u00b0F. Rain chances may reach about 61% overnight.\n\nFriday: A slight chance of rain showers in Doylestown and Levittown, with a chance of showers and thunderstorms in Quakertown, with highs ranging from 82\u00b0F to 85\u00b0F. Rain chances may reach about 45%.\nFriday Night: Partly cloudy in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 69\u00b0F to 73\u00b0F. Rain chances may reach about 45% overnight.\n\nSaturday: Sunny, with highs ranging from 77\u00b0F to 81\u00b0F.\nSaturday Night: Mostly clear, with lows ranging from 61\u00b0F to 65\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 83\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 67\u00b0F, compared with 64\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Friday around 6 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-09-03T01:51:04.747372",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 69\u00b0F, with heavy rain and fog/mist conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: A chance of showers and thunderstorms in Doylestown and Quakertown, with a chance of rain showers in Levittown, with highs ranging from 87\u00b0F to 89\u00b0F. Rain chances may reach about 49%.\nThursday Night: A chance of rain showers in doylestown, showers and thunderstorms likely in Quakertown, and a chance of showers and thunderstorms in Levittown, with lows ranging from 68\u00b0F to 70\u00b0F. Rain chances may reach about 61% overnight.\n\nFriday: A slight chance of rain showers in Doylestown and Levittown, with a chance of showers and thunderstorms in Quakertown, with highs ranging from 82\u00b0F to 85\u00b0F. Rain chances may reach about 45%.\nFriday Night: Partly cloudy in Doylestown and Levittown, with mostly cloudy in Quakertown, with lows ranging from 69\u00b0F to 73\u00b0F. Rain chances may reach about 45% overnight.\n\nSaturday: Sunny, with highs ranging from 77\u00b0F to 81\u00b0F.\nSaturday Night: Mostly clear, with lows ranging from 61\u00b0F to 65\u00b0F.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 83\u00b0F, compared with 78\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 64\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Friday around 6 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 69,
     "avg_humidity": 96,
-    "avg_wind": 8,
+    "avg_wind": 16,
     "conditions": "Heavy Rain and Fog/Mist"
   },
   "alerts": [
     {
       "event": "Heat Advisory",
-      "headline": "Heat Advisory issued September 2 at 2:10PM EDT until September 3 at 8:00PM EDT by NWS Mount Holly NJ",
+      "headline": "Heat Advisory issued September 3 at 1:26AM EDT until September 3 at 8:00PM EDT by NWS Mount Holly NJ",
       "severity": "Moderate",
-      "effective": "2026-09-02T14:10:00-04:00",
-      "expires": "2026-09-03T05:00:00-04:00"
+      "effective": "2026-09-03T01:26:00-04:00",
+      "expires": "2026-09-03T16:00:00-04:00"
     }
   ],
   "chart": [
-    {
-      "time": "2026-09-03T00:00:00-04:00",
-      "temp": 69.0,
-      "precip": 60.0
-    },
     {
       "time": "2026-09-03T01:00:00-04:00",
       "temp": 69.3,
@@ -379,7 +374,7 @@
     },
     {
       "time": "2026-09-06T00:00:00-04:00",
-      "temp": 64.5,
+      "temp": 63.3,
       "precip": 1.0
     }
   ]
