@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T03:51:04.781952",
-  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 68\u00b0F, humidity is averaging about 97%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: Mostly cloudy in doylestown, slight chance showers and thunderstorms in Quakertown, and partly sunny in Levittown, with highs ranging from 88\u00b0F to 89\u00b0F. Rain chances may reach about 34%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 67\u00b0F to 69\u00b0F. Rain chances may reach about 73% overnight.\n\nFriday: Mostly sunny in Doylestown and Quakertown, with partly sunny in Levittown, with highs ranging from 85\u00b0F to 88\u00b0F. Rain chances may reach about 71%.\nFriday Night: A slight chance of rain showers in doylestown, partly cloudy in Quakertown, and a chance of rain showers in Levittown, with lows ranging from 69\u00b0F to 73\u00b0F. Rain chances may reach about 71% overnight.\n\nSaturday: Sunny, with highs ranging from 79\u00b0F to 82\u00b0F.\nSaturday Night: Mostly clear, with lows ranging from 62\u00b0F to 67\u00b0F. Rain chances may reach about 27% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 85\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 65\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
+  "generated_at": "2026-09-03T04:15:57.072796",
+  "summary": "Here\u2019s what the next three days are looking like in Bucks County.\n\nRight now across Doylestown, Quakertown and Levittown, temperatures are averaging around 68\u00b0F, with light rain conditions, humidity is averaging about 96%.\n\nThere are active weather alerts in effect, including: Heat Advisory.\n\nThursday: Mostly cloudy in doylestown, slight chance showers and thunderstorms in Quakertown, and partly sunny in Levittown, with highs ranging from 88\u00b0F to 89\u00b0F. Rain chances may reach about 34%.\nThursday Night: A chance of showers and thunderstorms, with lows ranging from 67\u00b0F to 69\u00b0F. Rain chances may reach about 73% overnight.\n\nFriday: Mostly sunny in Doylestown and Quakertown, with partly sunny in Levittown, with highs ranging from 85\u00b0F to 88\u00b0F. Rain chances may reach about 71%.\nFriday Night: A slight chance of rain showers in doylestown, partly cloudy in Quakertown, and a chance of rain showers in Levittown, with lows ranging from 69\u00b0F to 73\u00b0F. Rain chances may reach about 71% overnight.\n\nSaturday: Sunny, with highs ranging from 79\u00b0F to 82\u00b0F.\nSaturday Night: Mostly clear, with lows ranging from 62\u00b0F to 67\u00b0F. Rain chances may reach about 27% overnight.\n\nAcross Doylestown, Quakertown and Levittown, the average daytime high over the next three days is 85\u00b0F, compared with 80\u00b0F during the same stretch last week.\nThe average overnight low is 66\u00b0F, compared with 65\u00b0F last week.\nAverage dew points over the next 72 hours come in around 64\u00b0F, which suggests a little humid conditions overall.\nOne of the better outdoor windows looks to be Saturday around 10 AM, when temperatures should average about 71\u00b0F with rain chances near 0%.",
   "current": {
     "avg_temp": 68,
-    "avg_humidity": 97,
+    "avg_humidity": 96,
     "avg_wind": 10,
-    "conditions": ""
+    "conditions": "Light Rain"
   },
   "alerts": [
     {
@@ -20,7 +20,7 @@
     {
       "time": "2026-09-03T03:00:00-04:00",
       "temp": 69.0,
-      "precip": 70.3
+      "precip": 69.0
     },
     {
       "time": "2026-09-03T04:00:00-04:00",
@@ -376,6 +376,11 @@
       "time": "2026-09-06T02:00:00-04:00",
       "temp": 60.3,
       "precip": 0.3
+    },
+    {
+      "time": "2026-09-06T03:00:00-04:00",
+      "temp": 59.0,
+      "precip": 0.0
     }
   ]
 }
